@@ -1,19 +1,18 @@
 ---
 layout: post
-title: Here is a blog post sample
+title: The evolution of the Rip Curl logo
 date: 2020-06-24 17:50
-header_feature_image: /uploads/867FAB82-62D7-4C53-8EDC-5114095CF8AA.jpeg
-caption: Cobbles
+header_feature_image: ../uploads/manny-moreno-getjzv1icdw-unsplash.jpg
+caption: Burleigh Heads QLD, Australia- Manny Moreno
+comments: true
 ---
-
 This is just a sample post that you should delete. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page.
 
 The `header_feature_image` is optional and you should enter the path to it in the metadata above.
 
 > Here follows some more placeholder text. You can see the `markdown` when viewing this post in Atom. This is a *blockquote*.
 
-
-![Here is a book](../uploads/pages.jpg)
+![Rip Curl logos through the years](../uploads/screenshot-2020-09-28-at-09.57.42.png)
 
 By impossible of in difficulty discovered celebrated ye. Justice joy manners boy met resolve produce. Bed head loud next plan rent had easy add him. To open draw dear be by side like.
 
