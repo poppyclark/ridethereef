@@ -1,12 +1,12 @@
 ---
 layout: post
-title: The evolution of the Rip Curl logo
+title: The evolution of the Rip Curl typography
 date: 2020-06-24 17:50
 header_feature_image: ../uploads/screenshot-2020-09-28-at-09.57.42.png
-caption: "Rip Curl logos through the years "
+caption: "Rip Curl typography throughout the years "
 comments: true
 ---
-Rip Curl is one of the biggest and most important Surf Brands in the world, it was founded in 1969 and has since grown and evolved to meet the needs of the customers and their philosophy. 
+Rip Curl is one of the biggest and most important Surf Brands in the world, it was founded in 1969 and has since grown and evolved to meet the needs of the customers and their philosophy. With these changes, the typography has also had to change. 
 
 The `header_feature_image` is optional and you should enter the path to it in the metadata above.
 
