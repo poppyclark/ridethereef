@@ -2,8 +2,8 @@
 layout: post
 title: The evolution of the Rip Curl logo
 date: 2020-06-24 17:50
-header_feature_image: ../uploads/manny-moreno-getjzv1icdw-unsplash.jpg
-caption: Burleigh Heads QLD, Australia- Manny Moreno
+header_feature_image: ../uploads/screenshot-2020-09-28-at-09.57.42.png
+caption: "Rip Curl logos through the years "
 comments: true
 ---
 This is just a sample post that you should delete. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page.
@@ -12,7 +12,7 @@ The `header_feature_image` is optional and you should enter the path to it in th
 
 > Here follows some more placeholder text. You can see the `markdown` when viewing this post in Atom. This is a *blockquote*.
 
-![Rip Curl logos through the years](../uploads/screenshot-2020-09-28-at-09.57.42.png)
+![Burleigh Heads QLD, Australia- Manny Moreno](../uploads/manny-moreno-getjzv1icdw-unsplash.jpg)
 
 By impossible of in difficulty discovered celebrated ye. Justice joy manners boy met resolve produce. Bed head loud next plan rent had easy add him. To open draw dear be by side like.
 
