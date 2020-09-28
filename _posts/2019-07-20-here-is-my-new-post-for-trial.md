@@ -6,7 +6,7 @@ header_feature_image: ../uploads/screenshot-2020-09-28-at-09.57.42.png
 caption: "Rip Curl logos through the years "
 comments: true
 ---
-This is just a sample post that you should delete. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page.
+Rip Curl is one of the biggest and most important Surf Brands in the world, it was founded in 1969 and has since grown and evolved to meet the needs of the customers and their philosophy. 
 
 The `header_feature_image` is optional and you should enter the path to it in the metadata above.
 
@@ -14,13 +14,9 @@ The `header_feature_image` is optional and you should enter the path to it in th
 
 ![Burleigh Heads QLD, Australia- Manny Moreno](../uploads/manny-moreno-getjzv1icdw-unsplash.jpg)
 
-Rip Curl is one of the biggest and most important Surf Brands in the world, it was founded in 1969 and has since grown and evolved to meet the needs of the customers and their philosophy . 
+Rip Curl is one of the biggest and most important Surf Brands in the world, it was founded in 1969 and has since grown and evolved to meet the needs of the customers and their philosophy. 
 
 Watching them evolve in the last 60 years has been 
-
-
-
-
 
 By impossible of in difficulty discovered celebrated ye. Justice joy manners boy met resolve produce. Bed head loud next plan rent had easy add him. To open draw dear be by side like.
 
