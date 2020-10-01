@@ -2,21 +2,17 @@
 layout: post
 title: The evolution of the Rip Curl typography
 date: 2020-06-24 17:50
-header_feature_image: ../uploads/screenshot-2020-09-28-at-09.57.42.png
+header_feature_image: ../uploads/placeholder3.jpg
 caption: "Rip Curl typography throughout the years "
 comments: true
 ---
-Rip Curl is one of the biggest and most important Surf Brands in the world, it was founded in 1969 and has since grown and evolved to meet the needs of the customers and their philosophies. With these changes, the typography has also had to change. 
+Rip Curl is one of the biggest and most important Surf Brands in the world, it was founded in 1969 and has since grown and evolved to meet the needs of the customers and their philosophy. 
+
+![Burleigh Heads QLD, Australia- Manny Moreno](../uploads/manny-moreno-getjzv1icdw-unsplash.jpg)
 
 Both the font and the colours are vital in marketing and attracting clients.
 
 When they first launched they were rainbow and revolved around 
-
-The `header_feature_image` is optional and you should enter the path to it in the metadata above.
-
-> Here follows some more placeholder text. You can see the `markdown` when viewing this post in Atom. This is a *blockquote*.
-
-![Burleigh Heads QLD, Australia- Manny Moreno](../uploads/manny-moreno-getjzv1icdw-unsplash.jpg)
 
 Rip Curl is one of the biggest and most important Surf Brands in the world, it was founded in 1969 and has since grown and evolved to meet the needs of the customers and their philosophy. 
 
