@@ -22,4 +22,4 @@ Watching them evolve in the last 60 years has been
 
 ## THE ORIGINAL RIP CURL FONT
 
-![Wooden Type](../uploads/log.jpg)
+![Photo by- Atlas Green](../uploads/atlas-green-oemqpdt8_k-unsplash-1-.jpg "Surfer ")
