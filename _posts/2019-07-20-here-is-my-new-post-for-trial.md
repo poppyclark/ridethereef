@@ -1,26 +1,22 @@
 ---
 layout: post
-title: The evolution of the Rip Curl logo
+title: The evolution of the Rip Curl typography
 date: 2020-06-24 17:50
-header_feature_image: ../uploads/screenshot-2020-09-28-at-09.57.42.png
-caption: "Rip Curl logos through the years "
+header_feature_image: ../uploads/placeholder3.jpg
+caption: "Rip Curl typography throughout the years "
 comments: true
 ---
-This is just a sample post that you should delete. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page.
-
-The `header_feature_image` is optional and you should enter the path to it in the metadata above.
-
-> Here follows some more placeholder text. You can see the `markdown` when viewing this post in Atom. This is a *blockquote*.
+Rip Curl is one of the biggest and most important Surf Brands in the world, it was founded in 1969 and has since grown and evolved to meet the needs of the customers and their philosophy. 
 
 ![Burleigh Heads QLD, Australia- Manny Moreno](../uploads/manny-moreno-getjzv1icdw-unsplash.jpg)
 
-Rip Curl is one of the biggest and most important Surf Brands in the world, it was founded in 1969 and has since grown and evolved to meet the needs of the customers and their philosophy . 
+Both the font and the colours are vital in marketing and attracting clients.
+
+When they first launched they were rainbow and revolved around 
+
+Rip Curl is one of the biggest and most important Surf Brands in the world, it was founded in 1969 and has since grown and evolved to meet the needs of the customers and their philosophy. 
 
 Watching them evolve in the last 60 years has been 
-
-
-
-
 
 By impossible of in difficulty discovered celebrated ye. Justice joy manners boy met resolve produce. Bed head loud next plan rent had easy add him. To open draw dear be by side like.
 
