@@ -8,7 +8,23 @@ comments: true
 ---
 Rip Curl is one of the biggest and most important Surf Brands in the world, it was founded in 1969 and has since grown and evolved to meet the needs of the customers and their philosophy. 
 
-![Burleigh Heads QLD, Australia- Manny Moreno](../uploads/manny-moreno-getjzv1icdw-unsplash.jpg)
+![Burleigh Heads QLD, Australia- Taken by Manny Moreno](../uploads/manny-moreno-getjzv1icdw-unsplash.jpg)
+
+In the past 60 years they have changed and evolved in more ways than we can know but the most obvious change comes in the physical form of the branding, this being- logo, typography, colour and size of font. These are all things that are vital in marketing to attract the right clients. 
+
+People who buy rip curl tend to be outdoorsy people and as a surf brand attract surfers, skaters and snowboarders as well.
+
+
+
+When they first launched the company they used 
+
+
+
+
+
+
+
+
 
 Both the font and the colours are vital in marketing and attracting clients.
 
