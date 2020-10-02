@@ -28,4 +28,4 @@ As the company continued to grow they began to incorporate more rainbow colours 
 
 ![](../uploads/rip-curl-logo-5.png)
 
-![]()
+![](../uploads/rip-curl-last-one.png)
