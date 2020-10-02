@@ -14,20 +14,10 @@ In the past 60 years Rip Curl have changed and evolved in more ways than we can 
 
 They are the number one market leaders for surfing wetsuits and have been for more than 30 years, they are setting standards for the wetsuits of the future and are constantly developing their own technology. The market for rip curl therefore tends to be for outdoorsy people as they sell mountain-wear alongside their clothing range for men, women and children. Rip curl is currently worth over $350 million. 
 
-When they first launched the company they used rainbow colours and although they still incorporate that into the brand today they have changed dramatically to keep up with current trends. 
-
-Rip Curl is one of the biggest and most important Surf Brands in the world, it was founded in 1969 and has since grown and evolved to meet the needs of the customers and their philosophy. 
-
-Watching them evolve in the last 60 years has been 
-
-
-
-
-
-THE ORIGINAL TYPOGRAPHY FROM 1969-
+When they first launched the company the logo was black and white chunky writing squished up into a cirle- one of the most iconic and well known designs- shown here- 
 
 ![](../uploads/rip-curl-logo-png-8.png "The first ever rip curl logo/ typography")
 
-![]()
+![Rip Curl is one of the biggest and most important Surf Brands in the world, it was founded in 1969 and has since grown and evolved to meet the needs of the customers and their philosophy.   Watching them evolve in the last 60 years has beenrainbow colours and although they still incorporate that into the brand today they have changed dramatically to keep up with current trends.]()
 
 ![]()
