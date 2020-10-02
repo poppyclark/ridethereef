@@ -6,8 +6,6 @@ header_feature_image: ../uploads/drew-dau-hvyeoqly3ms-unsplash.jpg
 caption: Rip Curl typography throughout the years- Drew Dua
 comments: true
 ---
-
-
 Rip Curl is one of the biggest and most important Surf Brands in the world, it was founded in 1969 and has since grown and evolved to meet the needs of the customers and their philosophy. 
 
 ![Burleigh Heads QLD, Australia- Taken by Manny Moreno](../uploads/manny-moreno-getjzv1icdw-unsplash.jpg)
@@ -20,11 +18,11 @@ When they first launched the company the logo was black and white chunky writing
 
 As the company continued to grow they began to incorporate more rainbow colours to fit the era and the vibe of their customers, this stuck with them through the late 1970's right into the 1980's. They still incorporate that into the brand today even though they have changed dramatically to keep up with current trends.
 
-![](../uploads/rip-curl-logo-png-8.png "The first ever rip curl logo/ typography")
+![The first ever rip curl logo/ typography](../uploads/rip-curl-logo-png-8.png)
 
-![](../uploads/rip-curl-rainbow.jpg "The second wave of branding for Rip Curl- The era of rainbows")
+![The second wave of branding for Rip Curl- The era of rainbows](../uploads/rip-curl-rainbow.jpg)
 
-![](../uploads/rip-curl-3-.jpeg "The third wave of branding for Rip Curl- 3D Rainbows")
+![The third wave of branding for Rip Curl- 3D Rainbows](../uploads/rip-curl-3-.jpeg)
 
 ![](../uploads/rip-curl-4.jpg)
 
