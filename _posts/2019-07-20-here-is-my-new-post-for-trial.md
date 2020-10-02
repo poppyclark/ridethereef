@@ -20,6 +20,12 @@ Rip Curl is one of the biggest and most important Surf Brands in the world, it w
 
 Watching them evolve in the last 60 years has been 
 
+
+
+
+
+THE ORIGINAL TYPOGRAPHY FROM 1969-
+
 ![](../uploads/rip-curl-logo-png-8.png "The first ever rip curl logo/ typography")
 
 ![]()
