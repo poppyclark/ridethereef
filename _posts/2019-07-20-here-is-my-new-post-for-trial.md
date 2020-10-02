@@ -24,8 +24,8 @@ As the company continued to grow they began to incorporate more rainbow colours 
 
 ![The third wave of branding for Rip Curl- 3D Rainbows](../uploads/rip-curl-3-.jpeg)
 
-![](../uploads/rip-curl-4.jpg)
+![The birth of the iconic Rip Curl wave](../uploads/rip-curl-4.jpg)
 
-![](../uploads/rip-curl-logo-5.png)
+![](../uploads/rip-curl-logo-5.png "Water camouflage version of the 1990's logo")
 
-![](../uploads/rip-curl-last-one.png)
+![](../uploads/rip-curl-last-one.png "the first lowercase 'Blade' logo- 2005")
