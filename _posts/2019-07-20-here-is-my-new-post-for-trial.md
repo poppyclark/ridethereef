@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The evolution of the Rip Curl typography
+title: "The evolution of the Rip Curl "
 date: 2020-06-24 17:50
 header_feature_image: ../uploads/drew-dau-hvyeoqly3ms-unsplash.jpg
 caption: Rip Curl typography throughout the years- Drew Dua
@@ -20,6 +20,8 @@ Rip Curl is one of the biggest and most important Surf Brands in the world, it w
 
 Watching them evolve in the last 60 years has been 
 
-## THE ORIGINAL RIP CURL FONT
+![](../uploads/rip-curl-logo-png-8.png "The first ever rip curl logo/ typography")
 
-![Photo by- Atlas Green](../uploads/atlas-green-oemqpdt8_k-unsplash-1-.jpg "Surfer ")
+![]()
+
+![]()
