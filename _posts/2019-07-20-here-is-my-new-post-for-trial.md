@@ -22,4 +22,4 @@ As the company continued to grow they began to incorporate more rainbow colours 
 
 ![](../uploads/rip-curl-rainbow.jpg "The second wave of branding for Rip Curl- The era of rainbows")
 
-![]()
+![](../uploads/rip-curl-3-.jpeg "The third wave of branding for Rip Curl- 3D Rainbows")
