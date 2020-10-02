@@ -18,6 +18,8 @@ When they first launched the company the logo was black and white chunky writing
 
 As the company continued to grow they began to incorporate more rainbow colours to fit the era and the vibe of their customers, this stuck with them through the late 1970's right into the 1980's. They still incorporate that into the brand today even though they have changed dramatically to keep up with current trends.
 
+As the company grew so did 
+
 ![The first ever rip curl logo/ typography](../uploads/rip-curl-logo-png-8.png)
 
 ![The second wave of branding for Rip Curl- The era of rainbows](../uploads/rip-curl-rainbow.jpg)
@@ -28,4 +30,4 @@ As the company continued to grow they began to incorporate more rainbow colours 
 
 ![](../uploads/rip-curl-logo-5.png "Water camouflage version of the 1990's logo")
 
-![](../uploads/rip-curl-last-one.png "the first lowercase 'Blade' logo- 2005")
+![](../uploads/rip-curl-last-one.png "The first lowercase 'Blade' logo- 2005")
