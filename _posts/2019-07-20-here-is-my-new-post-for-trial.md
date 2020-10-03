@@ -20,11 +20,11 @@ Back then, as they continued to grow they began to incorporate more rainbow colo
 
 The third wave of branding came in the form of 3D typography, and even though the font and style changed they still decided to stick with the rainbow colours, this brand new 3D model stuck with them for the rest of the 1990's. 
 
-At the end of this era Rip Curl began to take off worldwide and were making huge amounts of money which resulted in a re-brand with a brand new logo with new typography and colours. This is when the rip curl wave was born, which we still see today.
+At the end of this era Rip Curl began to take off worldwide and they were making huge amounts of money which resulted in a re-brand with a brand new logo, new typography and a new colour scheme. This is when the rip curl wave was born, which we still see today.
 
-After this Rip Curl switched things up every few years, to different colours and effects, the first one being - water Camouflage.
+After the re brand Rip Curl switched things up every few years, different colours and effects were tried and experimented with, the first one being - water Camouflage.
 
-The next update removed the Camouflage design and brought in the most memorable design which was marketed and aimed towards more surfboards, wet suits, posters and other merchandise. They changed this from black to red in a new adaptation. Later on in 2014 they did something they had never done before- written all typography in lower case characters which was then replaced by the 'blade logo in 2015.
+The next update removed the Camouflage design and brought in the most memorable design which was marketed and aimed more towards surfboards, wetsuits, posters and other merchandise. One adaptation changed the colours from black to red in 2014. They later on did something they had never done before- written all typography in lower case characters which was then replaced by the 'blade logo in 2015.
 
 ![The first ever rip curl logo/ typography](../uploads/rip-curl-logo-png-8.png)
 
