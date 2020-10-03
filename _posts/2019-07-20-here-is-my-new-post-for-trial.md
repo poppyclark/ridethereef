@@ -32,6 +32,6 @@ The next update removed the Camouflage design and brought in the most memorable 
 
 ![The birth of the iconic Rip Curl wave](../uploads/rip-curl-4.jpg)
 
-![](../uploads/rip-curl-logo-5.png "Water camouflage version of the 1990's logo")
+![Water camouflage version of the 1990's logo](../uploads/rip-curl-logo-5.png)
 
-![](../uploads/rip-curl-last-one.png "The first lowercase 'Blade' logo- 2005")
+![The first lowercase 'Blade' logo- 2005](../uploads/rip-curl-last-one.png)
