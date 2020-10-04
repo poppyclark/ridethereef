@@ -10,4 +10,4 @@ Reef safe suncreams are becoming higher and higher in demand for all age ranges 
 
 One of the best things we can do for our planet and our oceans is to leave behind as little damage as possible, suncreams have a huge impact on our ocean, every-time we swim int he ocean without reef safe suncream we seep chemicals into the ocean. These chemicals contain nanoparticles that can disrupt coral's reproduction and growth cycles, ultimately leading to bleaching which kills the coral we need to keep the balance of life.
 
-![Sun Bum suncream brand ](../uploads/sun-bum.jpeg)
+![Sun Bum suncream brand (1)](../uploads/sun-bum.jpeg)
