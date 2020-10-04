@@ -28,6 +28,10 @@ So, of course we don’t use any ingredients that could hurt any of them."
 
 Another brand 
 
+
+
 ![Sun Bum suncream brand (1)](../uploads/sun-bum.jpeg)
 
 ![Sun Bum suncream brand (2)](../uploads/sunbum-2.jpg)
+
+![Green People suncream brand (3)](../uploads/green-people-1.png)
