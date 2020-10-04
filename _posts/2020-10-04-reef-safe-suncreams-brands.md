@@ -24,7 +24,11 @@ We care about our families.
 
 So, of course we don’t use any ingredients that could hurt any of them."
 
-Another popular brand is 'Green People', its recyclable sugar cane packaging is a popular selling point. 
+Another popular brand is 'Green People', their packaging is very minimal- white with black typography and an orange logo- very similar to sun bum but with more of a minimal appearance. 
+
+Like the yellow sun bum logo the orange logo in this logo is supposed to represent the sunshine. Green People is more of a sophisticated brand.
+
+ 
 
 ![Sun Bum suncream brand (1)](../uploads/sun-bum.jpeg)
 
