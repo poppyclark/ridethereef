@@ -33,5 +33,3 @@ Another popular brand is 'Green People', their packaging is very minimal- white 
 The orange colour in the logo is supposed to represent the sunshine, similar to the yellow sun bum logo. 
 
 ![Green People suncream brand (3)](../uploads/green-people-1.png)
-
-![Green People suncream brand (4)](../uploads/green-people-2.jpg)
