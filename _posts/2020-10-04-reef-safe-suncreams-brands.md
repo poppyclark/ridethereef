@@ -32,4 +32,16 @@ Another popular brand is 'Green People', their packaging is very minimal- white 
 
 The orange colour in the logo is supposed to represent the sunshine, similar to the yellow sun bum logo. 
 
+
+
+
+
+Another popular UK sunscream brand is topic skin care. They brand themselves as
+
+>  BEAUTY WITH A CONSCIENCE
+>
+> A brand that puts animals and the enviroment first- 
+>
+> ![](../uploads/reef-suncream.webp)
+
 ![Green People suncream brand ](../uploads/green-people-1.png)
