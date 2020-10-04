@@ -14,6 +14,8 @@ There is a wide variety of choice in 2020, and although each brand have a differ
 
 The first, and one of the most popular in the United States and now in the UK is the brand Sun bum. They have different lines of suncream, each coming in a different colour, light brown, dark brown or white. The typography always stays the same- Bold and with curly longer letters at the end of each 'M' of the 'bum'. The colour of the logo- a yellow monkey with sunglasses on. 
 
+![Sun Bum suncream brand (1)](../uploads/sun-bum.jpeg)
+
 Their ethos is: 
 
 "We care about the planet.
@@ -24,14 +26,10 @@ We care about our families.
 
 So, of course we don’t use any ingredients that could hurt any of them."
 
-Another popular brand is 'Green People', their packaging is very minimal- white with black typography and an orange logo- very similar to sun bum but with more of a minimal appearance. 
-
-Like the yellow sun bum logo the orange logo in this logo is supposed to represent the sunshine. Green People is more of a sophisticated brand.
-
-![Sun Bum suncream brand (1)](../uploads/sun-bum.jpeg)
-
 ![Sun Bum suncream brand (2)](../uploads/sunbum-2.jpg)
 
-![Green People suncream brand (3)](../uploads/green-people-1.png)
+Another popular brand is 'Green People', their packaging is very minimal- white with black typography and an orange logo- very similar to sun bum but with more of a minimal appearance with Green People is more of a sophisticated brand.. 
 
-![Green People suncream brand (4)](../uploads/green-people-2.jpg)
+The orange colour in the logo is supposed to represent the sunshine, similar to the yellow sun bum logo. 
+
+![Green People suncream brand (3)](../uploads/green-people-1.png)
