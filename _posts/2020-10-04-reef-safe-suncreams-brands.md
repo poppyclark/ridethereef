@@ -24,9 +24,9 @@ We care about our families.
 
 So, of course we don’t use any ingredients that could hurt any of them."
 
-Another popular brand is 'Green People', their packaging is very minimal- white with black typography and an orange logo- very similar to sun bum but with more of a minimal appearance. 
+Another popular brand is 'Green People', their packaging is very minimal- white with black typography and an orange logo- very similar to sun bum but with more of a minimal appearance with Green People is more of a sophisticated brand.. 
 
-Like the yellow sun bum logo the orange logo in this logo is supposed to represent the sunshine. Green People is more of a sophisticated brand.
+The orange colour in the logo is supposed to represent the sunshine, similar to the yellow sun bum logo. 
 
 ![Sun Bum suncream brand (1)](../uploads/sun-bum.jpeg)
 
