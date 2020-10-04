@@ -6,6 +6,8 @@ header_feature_image: ../uploads/ishan-seefromthesky-8qeuawm_txg-unsplash.jpg
 caption: "Photo by- Ishan @seefromthesky "
 comments: true
 ---
+
+
 Reef safe suncreams are becoming higher and higher in demand for all age ranges and are being pushed by the millennials who are becoming more and more conscious of their footprint on the planet. 
 
 One of the best things we can do for our planet and our oceans is to leave behind as little damage as possible, suncreams have a huge impact on our ocean, every-time we swim in the ocean with regular store brought suncream on we seep chemicals into the ocean. These chemicals contain nanoparticles that can disrupt coral's reproduction and growth cycles, which bleaches and kills the coral. 
@@ -41,5 +43,13 @@ The orange colour in the logo is supposed to represent the sunshine, similar to 
 > > A brand that puts animals and the environment first- 
 >
 > The Vegan Society and PETA as a 100% cruelty-free brand, now and always.
+>
+> ![Tropic great barrier reef suncream](../uploads/reef-suncream.webp)
 
-![Tropic great barrier reef suncream](../uploads/reef-suncream.webp)
+
+
+
+
+vnnbjb,jn,
+
+![](../uploads/reef-suncream.webp)
