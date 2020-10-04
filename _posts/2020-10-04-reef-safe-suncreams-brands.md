@@ -14,6 +14,6 @@ One of the best things we can do for our planet and our oceans is to leave behin
 
 There is a wide variety of choice in 2020, and although each brand have a different ethos they all come in different colours with different fonts in different sizes, shapes and with different logos. 
 
-The first, and one of the most popular in the United States and now in the UK is the brand Sun bum. They have different lines of suncream and each comes in a different colour, light brown, dark brown and white. The typography stays the same and the colour of the logo- 
+The first, and one of the most popular in the United States and now in the UK is the brand Sun bum. They have different lines of suncream and each comes in a different colour, light brown, dark brown and white. The typography stays the same and the colour of the logo- a yellow monkey with sunglasses on. 
 
 ![Sun Bum suncream brand (1)](../uploads/sun-bum.jpeg)
