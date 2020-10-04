@@ -24,11 +24,7 @@ We care about our families.
 
 So, of course we don’t use any ingredients that could hurt any of them."
 
-
-
-Another brand 
-
-
+Another popular brand is 'Green People', its recyclable sugar cane packaging is a popular selling point. 
 
 ![Sun Bum suncream brand (1)](../uploads/sun-bum.jpeg)
 
