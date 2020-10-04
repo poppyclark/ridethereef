@@ -16,15 +16,15 @@ The first, and one of the most popular in the United States and now in the UK is
 
 ![Sun Bum suncream](../uploads/sun-bum.jpeg)
 
-Their ethos is: 
-
-"We care about the planet.
-
-We care about the animals.
-
-We care about our families.
-
-So, of course we don’t use any ingredients that could hurt any of them."
+> Their ethos is: 
+>
+> We care about the planet.
+>
+> We care about the animals.
+>
+> We care about our families.
+>
+> So, of course we don’t use any ingredients that could hurt any of them.
 
 ![Sun Bum suncream full range](../uploads/sunbum-2.jpg)
 
