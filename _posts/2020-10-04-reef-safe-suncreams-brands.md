@@ -1,0 +1,11 @@
+---
+layout: post
+title: Reef safe suncreams brands
+date: 2020-10-04T14:10:26.461Z
+header_feature_image: ../uploads/ishan-seefromthesky-8qeuawm_txg-unsplash.jpg
+caption: "Photo by- Ishan @seefromthesky "
+comments: true
+---
+Reef safe suncreams are becoming higher and higher in demand for all age ranges and are being pushed by the millennials who are becoming more and more conscious of their footprint on the planet. 
+
+One of the best things we can do for our planet and our oceans is to leave behind as little damage as possible, suncreams have a huge impact on our ocean, every-time we swim int he ocean without reef safe suncream we seep chemicals into the ocean. These chemicals contain nanoparticles that can disrupt coral's reproduction and growth cycles, ultimately leading to bleaching which kills the coral we need to keep the balance of life.
