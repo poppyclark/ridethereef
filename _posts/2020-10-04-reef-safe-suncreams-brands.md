@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reef safe suncreams brands
+title: Typography in reef safe suncreams brands
 date: 2020-10-04T14:10:26.461Z
 header_feature_image: ../uploads/ishan-seefromthesky-8qeuawm_txg-unsplash.jpg
 caption: "Photo by- Ishan @seefromthesky "
