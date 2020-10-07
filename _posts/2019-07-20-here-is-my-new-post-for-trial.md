@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The evolution of the Rip Curl "
+title: "The evolution of Rip Curl "
 date: 2020-06-24 17:50
 header_feature_image: ../uploads/drew-dau-hvyeoqly3ms-unsplash.jpg
 caption: Rip Curl typography throughout the years- Drew Dua
