@@ -52,11 +52,7 @@ Another popular UK suns cream brand is **topic skin care**. They brand themselve
 
 A brand that puts animals and the environment first- Supported by The Vegan Society and PETA as a 100% cruelty-free brand, now and always.
 
-They use the font- 'Accent Graphic by G'-Type in 'medium' in all black. Their logo is their typeface a soft black colour wrapped in an oval shape. 
-
-
-
-
+They use the font- 'Accent Graphic by G'-Type in 'medium' in all black. Their logo is the word 'TROPIC' in a soft black colour, wrapped into a half oval shape with a leaf hanging off of the top left corner. 
 
 ![](../uploads/reef-suncream.webp)
 
