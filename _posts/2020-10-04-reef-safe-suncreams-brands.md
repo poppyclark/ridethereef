@@ -6,11 +6,9 @@ header_feature_image: ../uploads/ishan-seefromthesky-8qeuawm_txg-unsplash.jpg
 caption: "Photograph by- Ishan @seefromthesky "
 comments: true
 ---
-One of the best things we can do for our planet and our oceans is to leave behind as little damage as possible, suncreams can have a huge impact on our ocean, since the human population has grown to 7.8 billion, every-time each of us swim in the ocean, we bring those chemicals in with us. These chemicals contain nanoparticles which disrupt the coral's reproduction and growth cycles, which in turn- bleaches and kills our coral reefs. 
+One of the best things we can do for our planet and our ocean is to leave behind as little damage as possible, suncreams can have a huge impact on our ocean, with a human population of 7.8 billion, every time each of us swim in the ocean, we bring those chemicals in with us. These chemicals contain nanoparticles which disrupt the coral's reproduction and growth cycles, which in turn- bleaches and kills our coral reefs. 
 
-Since this has come to light, reef safe suncreams have become higher in demand, these brands are being pushed by surf companies, millennials and environmentalists who are helping us become more and more conscious of our footprint on the planet. 
-
-
+Since this has come to light, reef safe suncreams have become higher in demand, these brands are being pushed by surf companies, millennials and environmentalists who are helping us become more and more conscious of our footprint on the planet and what we can do to minimise the damage we inflict on our planet.
 
 ![Photograph by- Francesco Ungaro](../uploads/francesco-ungaro-p0sbmtjxszc-unsplash.jpg)
 
@@ -53,6 +51,12 @@ Another popular UK suns cream brand is **topic skin care**. They brand themselve
 >  BEAUTY WITH A CONSCIENCE
 
 A brand that puts animals and the environment first- Supported by The Vegan Society and PETA as a 100% cruelty-free brand, now and always.
+
+They use the font- 'Accent Graphic by G'-Type in 'medium' in all black. Their logo is their typeface a soft black colour wrapped in an oval shape. 
+
+
+
+
 
 ![](../uploads/reef-suncream.webp)
 
