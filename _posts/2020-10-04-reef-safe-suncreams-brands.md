@@ -48,4 +48,4 @@ The orange colour in the logo is supposed to represent the sunshine, similar to 
 
 ![](../uploads/reef-suncream.webp)
 
-These suncreams have much in common in more than one way, not only do they all have similar typography, colour schemes and ethos', but their passion for the environment and animals is what shines through and sells the products.
+These suncreams have much in common and in more than one way, not only do they all have similar typography, colour schemes and ethos', but their passion for the environment and animals are what shines through and sells the products and puts them in a niche market that will hopefully encourage others to follow.
