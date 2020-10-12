@@ -40,13 +40,11 @@ Another popular brand is 'Green People'.
 
 Their packaging is very minimal- white with black typography and an orange logo- very similar to Sun Bum but with more of a minimal appearance, the orange logo seems like it is meant to represent the sunshine, which is very similar to sun bum. 
 
-They use the fonts 'Helvetica Now Text' for the 'Green People' text- with the 'green' in extra bold and the 'people' in medium. The font 'Garamond Pro Bold- in Italic' is used for the 'Organic Lifestyle' in the logo. All of this is in Black. 
+They use the fonts 'Helvetica Now Text' for the 'Green People' text- with the 'green' in extra bold and the 'people' in medium. The font 'Garamond Pro Bold- in Italic' is used for the 'Organic Lifestyle' in the logo. All of this is in Black. The Logo consists of the letters 'GP' in an orange square.
 
-The Logo is GP in a green 
+Green People is less of a 'surf brand' and more of a brand specifically made and branded as clean, natural skin care, made by people who want to put your skin and the environment first. They use fully biodegradable sugar cane packaging which is reflected in the price point. They are not linked to surfers in particular but are recommended by them as advocates for the ocean and the reef. 
 
-'[Adobe Garamond Pro Bold Italic](https://www.myfonts.com/fonts/adobe/garamond/adobe-garamond-bold-italic/)
 
-Green People is less of a surf brand and more of a 'sophisticated' brand specifically made and branded as a natural skin care brand who put skin and the environment first- they use fully biodegradable sugar cane packaging which is reflected in the price point. They are not linked to surfers in particular but are recommended by them as advocates for the ocean and the reef. 
 
 ![Green People suncream full range](../uploads/green-people-1.png)
 
