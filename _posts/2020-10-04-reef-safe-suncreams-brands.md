@@ -6,8 +6,6 @@ header_feature_image: ../uploads/ishan-seefromthesky-8qeuawm_txg-unsplash.jpg
 caption: "Photo by- Ishan @seefromthesky "
 comments: true
 ---
-
-
 Reef safe suncreams are becoming higher and higher in demand for all age ranges and are being pushed by the millennials who are becoming more and more conscious of their footprint on the planet. 
 
 One of the best things we can do for our planet and our oceans is to leave behind as little damage as possible, suncreams have a huge impact on our ocean, every-time we swim in the ocean with regular store brought suncream on we seep chemicals into the ocean. These chemicals contain nanoparticles that can disrupt coral's reproduction and growth cycles, which bleaches and kills the coral. 
@@ -27,6 +25,10 @@ The first, and one of the most popular in the United States and now in the UK is
 > We care about our families.
 >
 > So, of course we don’t use any ingredients that could hurt any of them.
+>
+> Sun Bum used a font called 'AKI LINES' which was originally Designed by Akihiko Seki in 1970. They used the shape and design but made the yellow font solid instead of lines. 
+
+
 
 ![Sun Bum suncream full range](../uploads/sunbum-2.jpg)
 
@@ -44,12 +46,6 @@ The orange colour in the logo is supposed to represent the sunshine, similar to 
 >
 > The Vegan Society and PETA as a 100% cruelty-free brand, now and always.
 >
-> ![Tropic great barrier reef suncream](../uploads/reef-suncream.webp)
-
-
-
-
-
-vnnbjb,jn,
-
-![](../uploads/reef-suncream.webp)
+> ![](../uploads/reef-suncream.webp)
+>
+> These suncreams have much in common in more than one way, not only do they all have similar typography, colour schemes and ethos', but their passion for the environment and animals is what shines through and sells the products.
