@@ -36,7 +36,7 @@ Their ethos is:
 
 ![Sun Bum suncream full range](../uploads/sunbum-2.jpg)
 
-Another popular brand is 'Green People'. 
+Another popular brand is -Green People. 
 
 Their packaging is very minimal- white with black typography and an orange logo- very similar to Sun Bum but with more of a minimal appearance, the orange logo seems like it is meant to represent the sunshine, which is very similar to sun bum. 
 
@@ -54,6 +54,10 @@ A brand that puts animals and the environment first- Supported by The Vegan Soci
 
 They use the font- 'Accent Graphic by G'-Type in 'medium' in all black. Their logo is the word 'TROPIC' in a soft black colour, wrapped into a half oval shape with a leaf hanging off of the top left corner. 
 
+More similar to Green People than Sun Bum but with the same ethos of leaving minimal damage to our coral.
+
 ![](../uploads/reef-suncream.webp)
 
-These suncreams have much in common and in more than one way, not only do they all have similar typography, colour schemes and ethos', but their passion for the environment and animals are what shines through and sells the products and puts them in a niche market that will hopefully encourage others to follow.
+Something I have noticed when looking at these brands is that the colouring of the logos are all identical, with mainly white packaging, black fonts, and orange logos.
+
+These suncreams all have much in common and in more than one way, not only do they all have similar typography and colour schemes , but their passion for the environment and the animals is what shines through and sells in this niche market.
