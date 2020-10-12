@@ -8,7 +8,7 @@ comments: true
 ---
 Reef safe suncreams are becoming higher in demand for all age ranges each year and these brands are being pushed by the millennials who are becoming more and more conscious of their footprint on the planet. 
 
-One of the best things we can do for our planet and our oceans is to leave behind as little damage as possible, suncreams can have a huge impact on our ocean as the human population has grown to 7.8 billion. Every-time we swim in the ocean with regular suncream on we seep those chemicals into the ocean. These chemicals contain nanoparticles that can disrupt coral's reproduction and growth cycles, which bleach and kill our coral reef. 
+One of the best things we can do for our planet and our oceans is to leave behind as little damage as possible, suncreams can have a huge impact on our ocean, since the human population has grown to 7.8 billion, every-time each of those people swim in the ocean, we seep those chemicals into the ocean. These chemicals contain nanoparticles which can disrupt the coral's reproduction and growth cycles, which in turn bleach and kill our coral reefs. 
 
 ![Photograph by- Francesco Ungaro](../uploads/francesco-ungaro-p0sbmtjxszc-unsplash.jpg)
 
@@ -43,8 +43,6 @@ Their packaging is very minimal- white with black typography and an orange logo-
 They use the fonts 'Helvetica Now Text' for the 'Green People' text- with the 'green' in extra bold and the 'people' in medium. The font 'Garamond Pro Bold- in Italic' is used for the 'Organic Lifestyle' in the logo. All of this is in Black. The Logo consists of the letters 'GP' in an orange square.
 
 Green People is less of a 'surf brand' and more of a brand specifically made and branded as clean, natural skin care, made by people who want to put your skin and the environment first. They use fully biodegradable sugar cane packaging which is reflected in the price point. They are not linked to surfers in particular but are recommended by them as advocates for the ocean and the reef. 
-
-
 
 ![Green People suncream full range](../uploads/green-people-1.png)
 
