@@ -3,14 +3,14 @@ layout: post
 title: Typography in reef safe suncreams brands
 date: 2020-10-04T14:10:26.461Z
 header_feature_image: ../uploads/ishan-seefromthesky-8qeuawm_txg-unsplash.jpg
-caption: "Photo by- Ishan @seefromthesky "
+caption: "Photograph by- Ishan @seefromthesky "
 comments: true
 ---
 Reef safe suncreams are becoming higher in demand for all age ranges each year and these brands are being pushed by the millennials who are becoming more and more conscious of their footprint on the planet. 
 
 One of the best things we can do for our planet and our oceans is to leave behind as little damage as possible, suncreams have a huge impact on our ocean, every-time we swim in the ocean with regular suncream on we seep chemicals into the ocean. These chemicals contain nanoparticles that can disrupt coral's reproduction and growth cycles, which bleaches and kills the coral. 
 
-![Photograph by Francesco Ungaro](../uploads/francesco-ungaro-p0sbmtjxszc-unsplash.jpg)
+![Photograph by- Francesco Ungaro](../uploads/francesco-ungaro-p0sbmtjxszc-unsplash.jpg)
 
 There is a wide variety of choice in 2020, and although each brand have a different ethos they all come in different colours with different fonts in different sizes, shapes and with different logos. 
 
@@ -38,16 +38,16 @@ Another popular brand is 'Green People', their packaging is very minimal- white 
 
 The orange colour in the logo is supposed to represent the sunshine, similar to the yellow sun bum logo. 
 
-![Green People suncream brand ](../uploads/green-people-1.png)
+![Green People suncream full range](../uploads/green-people-1.png)
 
-> > Another popular UK suns cream brand is topic skin care. They brand themselves as
-> >
-> >  BEAUTY WITH A CONSCIENCE
-> >
-> > A brand that puts animals and the environment first- 
+> Another popular UK suns cream brand is topic skin care. They brand themselves as
 >
-> The Vegan Society and PETA as a 100% cruelty-free brand, now and always.
+>  BEAUTY WITH A CONSCIENCE
 >
-> ![](../uploads/reef-suncream.webp)
->
-> These suncreams have much in common in more than one way, not only do they all have similar typography, colour schemes and ethos', but their passion for the environment and animals is what shines through and sells the products.
+> A brand that puts animals and the environment first- 
+
+The Vegan Society and PETA as a 100% cruelty-free brand, now and always.
+
+![](../uploads/reef-suncream.webp)
+
+These suncreams have much in common in more than one way, not only do they all have similar typography, colour schemes and ethos', but their passion for the environment and animals is what shines through and sells the products.
