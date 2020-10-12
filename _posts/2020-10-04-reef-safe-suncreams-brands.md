@@ -40,14 +40,14 @@ The orange colour in the logo is supposed to represent the sunshine, similar to 
 
 ![Green People suncream full range](../uploads/green-people-1.png)
 
-> > Another popular UK suns cream brand is topic skin care. They brand themselves as
-> >
-> >  BEAUTY WITH A CONSCIENCE
-> >
-> > A brand that puts animals and the environment first- 
+> Another popular UK suns cream brand is topic skin care. They brand themselves as
 >
-> The Vegan Society and PETA as a 100% cruelty-free brand, now and always.
+>  BEAUTY WITH A CONSCIENCE
 >
-> ![](../uploads/reef-suncream.webp)
->
-> These suncreams have much in common in more than one way, not only do they all have similar typography, colour schemes and ethos', but their passion for the environment and animals is what shines through and sells the products.
+> A brand that puts animals and the environment first- 
+
+The Vegan Society and PETA as a 100% cruelty-free brand, now and always.
+
+![](../uploads/reef-suncream.webp)
+
+These suncreams have much in common in more than one way, not only do they all have similar typography, colour schemes and ethos', but their passion for the environment and animals is what shines through and sells the products.
