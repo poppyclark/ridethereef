@@ -34,8 +34,8 @@ After the re brand Rip Curl switched things up every few years, different colour
 
 ![Water camouflage version of the 1990's logo](../uploads/rip-curl-logo-5.png)
 
-The next update removed the Camouflage design and brought in the most memorable design which was marketed and aimed more towards surfboards, wetsuits, posters and other merchandise. One adaptation changed the colours from black to red in 2014. They later on did something they had never done before- written all typography in lower case characters which was then replaced by the 'blade logo in 2015.
-
-
+The next update removed the Camouflage design and brought in the most memorable design which was marketed and aimed more towards surfboards, wetsuits, posters and other merchandise. One adaptation changed the colours from black to red in 2014. They later on did something they had never done before- they wrote all of the typography in lower case characters which was then replaced by the blade logo in 2015.
 
 ![The first lowercase 'Blade' logo- 2005](../uploads/rip-curl-last-one.png)
+
+The evolution of the Rip Curl brand and logo is impressive and shows clear progression over the span of 50 years. Each logo changes in colour, size and shape to reflect the times each were living through and to reflect the ethos of the customers.
