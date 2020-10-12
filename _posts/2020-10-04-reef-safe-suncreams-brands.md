@@ -12,15 +12,15 @@ One of the best things we can do for our planet and our oceans is to leave behin
 
 ![Photograph by- Francesco Ungaro](../uploads/francesco-ungaro-p0sbmtjxszc-unsplash.jpg)
 
-There is a wide variety of choice in 2020, and although each brand have a slightly varied ethos they all come in different colours, different fonts and in different sizes  with different logos. 
+There is a wide variety of choice in 2020, and although each brand have a slightly varied ethos and they come in different colours, fonts and sizes they all share similarities.
 
-> The first, and one of the most popular brands in the United States (and now in the UK) is the brand Sun bum, who- In November 2011, were nominated for an Accessory Product of the Year award at the Surf Industry Manufacturers Association (SIMA) Image Awards. 
+> The first, and one of the most popular brands in the United States (and now in the UK) is the brand -Sun Bum, who- In November 2011, were nominated for an Accessory Product of the Year award at the Surf Industry Manufacturers Association (SIMA) Image Awards. 
 >
-> Sun Bum have different lines of suncream, each coming in different colours (a range of light browns, dark browns, yellow and white). The typography always stays the same- a font called 'AKI LINES' which was originally Designed by Akihiko Seki in 1970. It is bold and with curly longer letters at the end of the 'M' of the 'bum'. 
+> Sun Bum have different lines of suncream, each coming in different colours (a range of light browns, dark browns, yellow and white). The typography always stays the same- a font called 'AKI LINES' which was originally Designed by Akihiko Seki in 1970. It is bold and with curly longer letters at the end of the 'bum'. 
 >
-> They used the shape and design of the font but made it thinner and solid rather than made with lines in the shape (almost 3D). In each range the colour of the font changes- for example, in the 'cool down' line they use the brown colour to contrast the light blue formula, in the original dark packaging they use the yellow font and in the mineral line with white packaging they use the light brown font. 
+> They used the shape and design of the font but made it thinner and solid rather than with thin line (3D). In each of the ranges the colour of the font changes- for example, in the 'cool down' line they use the brown colour to contrast the light blue formula, in the original dark packaging they use the yellow font and in the mineral line with white packaging they use the light brown font. 
 >
-> The colour scheme in general is- white, yellow and brown, including the colour of the logo which is yellow and is a little monkey with sunglasses on. 
+> The colour scheme in general is- white, yellow and brown, including the colour of the logo which is a yellow monkey with sunglasses on. 
 
 ![Sun Bum suncream](../uploads/sun-bum.jpeg)
 
@@ -40,19 +40,11 @@ Another popular brand is 'Green People'.
 
 Their packaging is very minimal- white with black typography and an orange logo- very similar to Sun Bum but with more of a minimal appearance, the orange logo seems like it is meant to represent the sunshine, which is very similar to sun bum. 
 
-They use the fonts 'Helvetica Now Text' for the 'Green People' text- with the 'green' in extra bold and the 'people' in medium. The font 'Garamond Pro Bold- in Italic' is used for the 'Organic Lifestyle' in the logo. All of this is in Black. 
+They use the fonts 'Helvetica Now Text' for the 'Green People' text- with the 'green' in extra bold and the 'people' in medium. The font 'Garamond Pro Bold- in Italic' is used for the 'Organic Lifestyle' in the logo. All of this is in Black. The Logo consists of the letters 'GP' in an orange square.
 
-The Logo is GP in a green 
-
-
-
-'[Adobe Garamond Pro Bold Italic](https://www.myfonts.com/fonts/adobe/garamond/adobe-garamond-bold-italic/)
+Green People is less of a 'surf brand' and more of a brand specifically made and branded as clean, natural skin care, made by people who want to put your skin and the environment first. They use fully biodegradable sugar cane packaging which is reflected in the price point. They are not linked to surfers in particular but are recommended by them as advocates for the ocean and the reef. 
 
 
-
-
-
-Green People is less of a surf brand and more of a 'sophisticated' brand specifically made and branded as a natural skin care brand who put skin and the environment first- they use fully biodegradable sugar cane packaging which is reflected in the price point. They are not linked to surfers in particular but are recommended by them as advocates for the ocean and the reef. 
 
 ![Green People suncream full range](../uploads/green-people-1.png)
 
