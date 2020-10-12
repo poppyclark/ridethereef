@@ -8,11 +8,11 @@ comments: true
 ---
 Reef safe suncreams are becoming higher in demand for all age ranges each year and these brands are being pushed by the millennials who are becoming more and more conscious of their footprint on the planet. 
 
-One of the best things we can do for our planet and our oceans is to leave behind as little damage as possible, suncreams have a huge impact on our ocean, every-time we swim in the ocean with regular suncream on we seep chemicals into the ocean. These chemicals contain nanoparticles that can disrupt coral's reproduction and growth cycles, which bleaches and kills the coral. 
+One of the best things we can do for our planet and our oceans is to leave behind as little damage as possible, suncreams have a huge impact on our ocean, every-time we swim in the ocean with regular suncream on we seep chemicals into the ocean. These chemicals contain nanoparticles that can disrupt coral's reproduction and growth cycles, which bleach and kill the coral reef. 
 
 ![Photograph by- Francesco Ungaro](../uploads/francesco-ungaro-p0sbmtjxszc-unsplash.jpg)
 
-There is a wide variety of choice in 2020, and although each brand have a different ethos they all come in different colours with different fonts in different sizes, shapes and with different logos. 
+There is a wide variety of choice in 2020, and although each brand have a slightly varied ethos they all come in different colours, different fonts and in different sizes  with different logos. 
 
 > The first, and one of the most popular brands in the United States (and now in the UK) is the brand Sun bum, who- In November 2011, were nominated for an Accessory Product of the Year award at the Surf Industry Manufacturers Association (SIMA) Image Awards. 
 >
@@ -36,17 +36,19 @@ Their ethos is:
 
 ![Sun Bum suncream full range](../uploads/sunbum-2.jpg)
 
-Another popular brand is 'Green People', their packaging is very minimal- white with black typography and an orange logo- very similar to sun bum but with more of a minimal appearance with Green People is more of a sophisticated brand.. 
+Another popular brand is 'Green People'. 
 
-The orange colour in the logo is supposed to represent the sunshine, similar to the yellow sun bum logo. 
+Their packaging is very minimal- white with black typography and an orange logo- very similar to sun bum but with more of a minimal appearance, Green People is less of a surf brand and more of a sophisticated and expensive brand specifically made as natural skin care which are good for the environment- they use fully biodegradable sugar cane packaging and aren't linked to surfers in particular- which is how they differ to Sun Bum. 
+
+The orange logo seems like it is meant to represent the sunshine, which is very similar to sun bum. 
 
 ![Green People suncream full range](../uploads/green-people-1.png)
 
-> Another popular UK suns cream brand is **topic skin care**. They brand themselves as
->
+Another popular UK suns cream brand is **topic skin care**. They brand themselves as
+
 >  BEAUTY WITH A CONSCIENCE
->
-> A brand that puts animals and the environment first- Supported by The Vegan Society and PETA as a 100% cruelty-free brand, now and always.
+
+A brand that puts animals and the environment first- Supported by The Vegan Society and PETA as a 100% cruelty-free brand, now and always.
 
 ![](../uploads/reef-suncream.webp)
 
