@@ -60,4 +60,4 @@ More similar to Green People than Sun Bum but with the same ethos of leaving min
 
 Something I have noticed when looking at these brands is that the colouring of the logos are all identical, with mainly white packaging, black fonts, and orange logos.
 
-These suncreams all have much in common and in more than one way, not only do they all have similar typography and colour schemes , but their passion for the environment and the animals is what shines through and sells in this niche market.
+These suncreams all have much in common and in more than one way, not only do they all have similar typography and colour schemes , but their passion for the environment and the animals is what shines through and is what sells in this niche market.
