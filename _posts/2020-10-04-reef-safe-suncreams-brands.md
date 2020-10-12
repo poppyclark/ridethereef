@@ -16,7 +16,11 @@ There is a wide variety of choice in 2020, and although each brand have a differ
 
 > The first, and one of the most popular brands in the United States (and now in the UK) is the brand Sun bum, who- In November 2011, were nominated for an Accessory Product of the Year award at the Surf Industry Manufacturers Association (SIMA) Image Awards. 
 >
-> Sun Bum have different lines of suncream, each coming in a different colours (a range of light browns, dark browns and white). The typography always stays the same- a font called 'AKI LINES' which was originally Designed by Akihiko Seki in 1970. It is bold and with curly longer letters at the end of the 'M' of the 'bum'. The colour of the logo is also yellow and is a little monkey with sunglasses on. 
+> Sun Bum have different lines of suncream, each coming in different colours (a range of light browns, dark browns, yellow and white). The typography always stays the same- a font called 'AKI LINES' which was originally Designed by Akihiko Seki in 1970. It is bold and with curly longer letters at the end of the 'M' of the 'bum'. 
+>
+> They used the shape and design of the font but made it thinner and solid rather than made with lines in the shape (almost 3D). In each range the colour of the font changes- for example, in the 'cool down' line they use the brown colour to contrast the light blue formula, in the original dark packaging they use the yellow font and in the mineral line with white packaging they use the light brown font. 
+>
+> The colour scheme in general is- white, yellow and brown, including the colour of the logo which is yellow and is a little monkey with sunglasses on. 
 
 ![Sun Bum suncream](../uploads/sun-bum.jpeg)
 
@@ -29,10 +33,6 @@ Their ethos is:
 > We care about our families.
 >
 > So, of course we don’t use any ingredients that could hurt any of them.
-
-Sun Bum used a font called 'AKI LINES' which was originally Designed by Akihiko Seki in 1970. They used the shape and design but made the yellow font thin and solid instead of large with lines in the shape (almost 3D). In each range they vary the colour of the font- for example, in the 'cool down' line they use the brown colour to contrast the light blue formula, in the original dark packaging they use the yellow font and in the mineral line with white packaging they use the light brown font. 
-
-The colour scheme in general is- white, yellow and brown.
 
 ![Sun Bum suncream full range](../uploads/sunbum-2.jpg)
 
