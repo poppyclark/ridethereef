@@ -14,7 +14,13 @@ One of the best things we can do for our planet and our oceans is to leave behin
 
 There is a wide variety of choice in 2020, and although each brand have a different ethos they all come in different colours with different fonts in different sizes, shapes and with different logos. 
 
-The first, and one of the most popular in the United States and now in the UK is the brand Sun bum. They have different lines of suncream, each coming in a different colour, light brown, dark brown or white. The typography always stays the same- Bold and with curly longer letters at the end of each 'M' of the 'bum'. The colour of the logo- a yellow monkey with sunglasses on. 
+> The first, and one of the most popular brands in the United States (and now in the UK) is the brand Sun bum, who- In November 2011, were nominated for an Accessory Product of the Year award at the Surf Industry Manufacturers Association (SIMA) Image Awards. 
+>
+> Sun Bum have different lines of suncream, each coming in different colours (a range of light browns, dark browns, yellow and white). The typography always stays the same- a font called 'AKI LINES' which was originally Designed by Akihiko Seki in 1970. It is bold and with curly longer letters at the end of the 'M' of the 'bum'. 
+>
+> They used the shape and design of the font but made it thinner and solid rather than made with lines in the shape (almost 3D). In each range the colour of the font changes- for example, in the 'cool down' line they use the brown colour to contrast the light blue formula, in the original dark packaging they use the yellow font and in the mineral line with white packaging they use the light brown font. 
+>
+> The colour scheme in general is- white, yellow and brown, including the colour of the logo which is yellow and is a little monkey with sunglasses on. 
 
 ![Sun Bum suncream](../uploads/sun-bum.jpeg)
 
@@ -28,10 +34,6 @@ Their ethos is:
 >
 > So, of course we don’t use any ingredients that could hurt any of them.
 
-Sun Bum used a font called 'AKI LINES' which was originally Designed by Akihiko Seki in 1970. They used the shape and design but made the yellow font thin and solid instead of large with lines in the shape (almost 3D). In each range they vary the colour of the font- for example, in the 'cool down' line they use the brown colour to contrast the light blue formula, in the original dark packaging they use the yellow font and in the mineral line with white packaging they use the light brown font. 
-
-The colour scheme in general is- white, yellow and brown.
-
 ![Sun Bum suncream full range](../uploads/sunbum-2.jpg)
 
 Another popular brand is 'Green People', their packaging is very minimal- white with black typography and an orange logo- very similar to sun bum but with more of a minimal appearance with Green People is more of a sophisticated brand.. 
@@ -40,14 +42,12 @@ The orange colour in the logo is supposed to represent the sunshine, similar to 
 
 ![Green People suncream full range](../uploads/green-people-1.png)
 
-> Another popular UK suns cream brand is topic skin care. They brand themselves as
+> Another popular UK suns cream brand is **topic skin care**. They brand themselves as
 >
 >  BEAUTY WITH A CONSCIENCE
 >
-> A brand that puts animals and the environment first- 
-
-The Vegan Society and PETA as a 100% cruelty-free brand, now and always.
+> A brand that puts animals and the environment first- Supported by The Vegan Society and PETA as a 100% cruelty-free brand, now and always.
 
 ![](../uploads/reef-suncream.webp)
 
-These suncreams have much in common in more than one way, not only do they all have similar typography, colour schemes and ethos', but their passion for the environment and animals is what shines through and sells the products.
+These suncreams have much in common and in more than one way, not only do they all have similar typography, colour schemes and ethos', but their passion for the environment and animals are what shines through and sells the products and puts them in a niche market that will hopefully encourage others to follow.
