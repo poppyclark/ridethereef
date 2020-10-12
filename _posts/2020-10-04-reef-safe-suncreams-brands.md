@@ -14,7 +14,9 @@ One of the best things we can do for our planet and our oceans is to leave behin
 
 There is a wide variety of choice in 2020, and although each brand have a different ethos they all come in different colours with different fonts in different sizes, shapes and with different logos. 
 
-> The first, and one of the most popular in the United States and now in the UK is the brand Sun bum, with its award winning design- In November 2011, Sun Bum was nominated for an Accessory Product of the Year award at the Surf Industry Manufacturers Association (SIMA) Image Awards. They have different lines of suncream, each coming in a different colour, light brown, dark brown or white. The typography always stays the same- Bold and with curly longer letters at the end of each 'M' of the 'bum'. The colour of the logo- a yellow monkey with sunglasses on. 
+> The first, and one of the most popular brands in the United States (and now in the UK) is the brand Sun bum, who- In November 2011, were nominated for an Accessory Product of the Year award at the Surf Industry Manufacturers Association (SIMA) Image Awards. 
+>
+> Sun Bum have different lines of suncream, each coming in a different colours (a range of light browns, dark browns and white). The typography always stays the same- a font called 'AKI LINES' which was originally Designed by Akihiko Seki in 1970. It is bold and with curly longer letters at the end of the 'M' of the 'bum'. The colour of the logo is also yellow and is a little monkey with sunglasses on. 
 
 ![Sun Bum suncream](../uploads/sun-bum.jpeg)
 
