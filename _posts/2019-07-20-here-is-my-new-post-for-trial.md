@@ -38,4 +38,4 @@ The next update removed the Camouflage design and brought in the most memorable 
 
 ![The first lowercase 'Blade' logo- 2005](../uploads/rip-curl-last-one.png)
 
-The evolution of the Rip Curl brand and logo is impressive and shows clear progression over the span of 50 years. Each logo changes in colour, size and shape to reflect the times each were living through and to reflect the ethos of the customers.
+The evolution of the Rip Curl brand and logo is impressive and shows clear progression over a span of 50 years. Each logo changes in colour, size and shape to reflect the times each were living through and to reflect the ethos of the customers and fashion changes.
