@@ -26,9 +26,7 @@ The first, and one of the most popular in the United States and now in the UK is
 >
 > So, of course we don’t use any ingredients that could hurt any of them.
 >
-> Sun Bum used a font called 'AKI LINES' which was originally Designed by Akihiko Seki in 1970. They used the shape and design but made the yellow font solid instead of lines. 
-
-
+> Sun Bum used a font called 'AKI LINES' which was originally Designed by Akihiko Seki in 1970. They used the shape and design but made the yellow font thin and solid instead of large with lines in the shape (almost 3D). 
 
 ![Sun Bum suncream full range](../uploads/sunbum-2.jpg)
 
