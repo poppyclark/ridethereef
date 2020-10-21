@@ -8,6 +8,4 @@ comments: true
 ---
 > Henry is a freelance, full-time illustrator, living in France. His vintage-like, minimal travel posters are an effect of a time consuming and a very consequent work on his style. 
 
-![]()
-
 ![](../uploads/henry_rivers_750px.webp)
