@@ -6,4 +6,6 @@ header_feature_image: ../uploads/henry-rivers-1.jpg
 caption: Around the world with Henry Rivers
 comments: true
 ---
-Henry Rivers is a British Illustrator and artist, known for his popular and iconic travel posters.He grew up in the english country side
+> Henry is a freelance, full-time illustrator, living in France. His vintage-like, minimal travel posters are an effect of a time consuming and a very consequent work on his style. 
+
+![](../uploads/designer-image-3-300x200.jpg)
