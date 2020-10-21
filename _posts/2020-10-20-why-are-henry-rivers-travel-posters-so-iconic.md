@@ -13,3 +13,5 @@ comments: true
 Henry uses two different fonts consistently for the name of each place and the word 'visit' in each print.
 
 The fonts he uses are- Braisetto Thin by Adam Ladd in italic for the 'visit' and Curwen Sans in Bold by K-Type for the name of the place that he is illustrating.
+
+![photo by- tales of anniebeanblog](../uploads/img_8114.webp)
