@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Analysing Henry Rivers "
+title: What makes Henry Rivers so successful?
 date: 2020-10-20T18:46:35.251Z
 header_feature_image: ../uploads/henry-rivers-1.jpg
 caption: Around the world with Henry Rivers
