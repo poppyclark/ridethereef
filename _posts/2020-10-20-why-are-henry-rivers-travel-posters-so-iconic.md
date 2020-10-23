@@ -6,7 +6,7 @@ header_feature_image: ../uploads/henry-rivers-1.jpg
 caption: Around the world with Henry Rivers
 comments: true
 ---
-> Henry is a freelance, full-time illustrator, living in France. His vintage-like, minimal travel posters are an effect of a time consuming and a very consequent work on his style. 
+Henry is a freelance, full-time illustrator, living in France. His vintage-like, minimal travel posters are an effect of a time consuming and a very consequent work on his style. 
 
 ![](../uploads/henry_rivers_750px.webp)
 
@@ -14,4 +14,4 @@ Henry uses two different fonts consistently for the name of each place and the w
 
 The fonts he uses are- Braisetto Thin by Adam Ladd in italic for the 'visit' and Curwen Sans in Bold by K-Type for the name of the place that he is illustrating.
 
-![photo by- tales of anniebeanblog](../uploads/img_8114.webp)
+![fonts- Braisetto Thin in italic &  Curwen Sans in Bold by K-Type](../uploads/canada_by_henry_rivers.jpg)
