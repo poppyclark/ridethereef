@@ -10,10 +10,14 @@ Henry is a freelance, full-time illustrator, living in France. His vintage-like,
 
 ![](../uploads/henry_rivers_750px.webp)
 
+His posters consistently have the same colour palette, style, illustrations and fonts which is something that gives him an edge in the market, because of this his work is easily recognisable and has since become popular, which has made him millions. He started getting noticed more and more off of pinterest and with each poster comes a different aesthetic based on the country- i would describe them as both peaceful and nostalgic, the kind of artwork that can fit easily into any home.
+
+![fonts- Braisetto Thin in italic &  Curwen Sans in Bold by K-Type](../uploads/canada_by_henry_rivers.jpg)
+
 Henry uses two different fonts consistently for the name of each place and the word 'visit' in each print.
 
 The fonts he uses are- Braisetto Thin by Adam Ladd in italic for the 'visit' and Curwen Sans in Bold by K-Type for the name of the place that he is illustrating.
 
-![fonts- Braisetto Thin in italic &  Curwen Sans in Bold by K-Type](../uploads/canada_by_henry_rivers.jpg)
+![](../uploads/screenshot-2020-10-23-at-14.55.03.png)
 
-His posters consistently have the same colour palette, style, illustrations and fonts which is something that gives him an edge in the market, because of this his work is easily recognisable and has since become popular, which has made him millions. He started getting noticed more and more off of pinterest and with each poster comes a different aesthetic based on the country- i would describe them as both peaceful and nostalgic, the kind of artwork that can fit easily into any home.
+![](../uploads/screenshot-2020-10-23-at-14.55.45.png)
