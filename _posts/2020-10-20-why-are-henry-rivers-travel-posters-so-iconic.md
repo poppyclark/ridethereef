@@ -10,7 +10,7 @@ Henry is a freelance full-time illustrator well known for his minimalistic trave
 
 ![](../uploads/henry_rivers_750px.webp)
 
-His posters consistently have the same colour scheme, style and illustration. Each poster looks and feels the same, because of this his art has become more and more recognisable which has resulted in him becoming more and more popular.
+His posters consistently have the same colour scheme, style and illustration. Each poster looks and feels the same, because of this- his art has become more and more recognisable which has resulted in him becoming more and more popular around the world.
 
  and fonts which is something that gives him an edge in the market, because of this, his work is easily recognisable and has since become popular, which has made him millions. He started getting noticed more and more off of pinterest and with each poster comes a different aesthetic based on the country- i would describe them as both peaceful and nostalgic, the kind of artwork that can fit easily into any home.
 
