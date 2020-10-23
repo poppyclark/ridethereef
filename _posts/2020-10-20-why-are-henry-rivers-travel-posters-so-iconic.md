@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Analysing Henry Rivers "
+title: What makes Henry Rivers so successful?
 date: 2020-10-20T18:46:35.251Z
 header_feature_image: ../uploads/henry-rivers-1.jpg
 caption: Around the world with Henry Rivers
@@ -24,8 +24,8 @@ The fonts he uses are- Braisetto Thin by Adam Ladd in italic for the 'visit' and
 
 ![](../uploads/screenshot-2020-10-23-at-14.58.41.png)
 
-With consistent this font choice, a wide market is created. His target demographic is very wide, with the fonts a nice middle ground between feminine and masculine as he has chosen two to balance each other out. 
+His choices of fonts are consistent, with every travel piece he has created staying the same, this creates a consistency that helps him become more recognisable and therefore more popular.
 
-The 'Braisetto Thin by Adam Ladd in italic' for the visit holds a feminine touch as it's smaller than the next and is also thin and curly. Whereas on the other hand the font urwen Sans in Bold is more masculine and solid.
+He also found the perfect middle ground between feminine and masculine which creates an equal balance, this logically has made his demographic double- The 'Braisetto Thin by Adam Ladd in italic' for the visit holds a feminine touch as it's smaller than the next and is also thin and curly. Whereas on the other hand the font urwen Sans in Bold is more masculine and solid.
 
 If he were to have just used the Braisetto font his market would've been geared more towards females and would therefore not be so popular.
