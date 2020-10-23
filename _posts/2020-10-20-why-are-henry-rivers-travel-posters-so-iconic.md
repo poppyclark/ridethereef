@@ -24,8 +24,8 @@ The fonts he uses are- Braisetto Thin by Adam Ladd in italic for the 'visit' and
 
 ![](../uploads/screenshot-2020-10-23-at-14.58.41.png)
 
-With his consistent and varied font choice, a wide market was created. His target demographic is very large, with the fonts a nice middle ground between feminine and masculine as he has chosen two to balance each other out. 
+His choices of fonts are consistent, with every travel piece he has created staying the same, this creates a consistency that helps him become more recognisable and therefore more popular.
 
-The 'Braisetto Thin by Adam Ladd in italic' for the visit holds a feminine touch as it's smaller than the next and is also thin and curly. Whereas on the other hand the font urwen Sans in Bold is more masculine and solid.
+He also found the perfect middle ground between feminine and masculine which creates an equal balance, this logically has made his demographic double- The 'Braisetto Thin by Adam Ladd in italic' for the visit holds a feminine touch as it's smaller than the next and is also thin and curly. Whereas on the other hand the font urwen Sans in Bold is more masculine and solid.
 
 If he were to have just used the Braisetto font his market would've been geared more towards females and would therefore not be so popular.
