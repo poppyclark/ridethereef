@@ -6,7 +6,7 @@ header_feature_image: ../uploads/henry-rivers-1.jpg
 caption: Around the world with Henry Rivers
 comments: true
 ---
-Henry is a full-time, freelance illustrator well known for his minimalistic travel posters sold globally.
+Henry Rivers is an english artist and freelance illustrator well known for his minimalistic travel posters that are sold worldwide.
 
 ![](../uploads/henry_rivers_750px.webp)
 
