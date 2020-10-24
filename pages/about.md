@@ -8,7 +8,7 @@ header_feature_image: ../uploads/logo.jpg
 published: true
 tags: null
 description: null
-show: false
+show: true
 ---
 **ABOUT ME:**
 
