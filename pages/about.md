@@ -4,7 +4,7 @@ title: About Ride The Reef
 subtitle: ""
 permalink: "/field "
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: ../uploads/white-with-aqua-brush-stroke-personal-logo.png
+header_feature_image: ../uploads/logo.jpg
 published: true
 tags: null
 description: null
@@ -22,11 +22,11 @@ We are living in uncertain times, our reefs are dying and we need to do everythi
 
 Within this website, the typographical and design choices I have made are all deliberate.
 
-![]()
+![](../uploads/tim-mossholder-gomhucj-o9w-unsplash-1-.jpg)
 
 **MY LOGO:**
 
-![](../uploads/white-with-aqua-brush-stroke-personal-logo.png)
+![](../uploads/logo.jpg)
 
 **MY BANNER:**
 
