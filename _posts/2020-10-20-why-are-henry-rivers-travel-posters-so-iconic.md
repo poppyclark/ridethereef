@@ -34,4 +34,4 @@ He also found the perfect middle ground between feminine and masculine which cre
 
 If he were to have just used the Braisetto font his market would've been geared more towards females and would therefore not be so popular.
 
-His use of font is something that gives him an edge in the market, because of this, his work is easily recognisable and has since become popular, which has made him millions. He started getting noticed more and more off of pinterest and with each poster comes a different aesthetic based on the country- i would describe them as both peaceful and nostalgic, the kind of artwork that can fit easily into any home.
+His use of font is something that gives him an edge in the market, because of this, his work is easily recognisable and has since become popular, which has made him millions. He started getting noticed more and more off of Pinterest and with each poster comes a different aesthetic based on the country- i would describe them as both peaceful and nostalgic, the kind of artwork that can fit easily into any home.
