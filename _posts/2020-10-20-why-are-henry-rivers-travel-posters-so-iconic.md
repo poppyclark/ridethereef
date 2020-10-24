@@ -26,12 +26,14 @@ The fonts he uses are- Braisetto Thin by Adam Ladd in italic for the 'visit' and
 
 ![](../uploads/screenshot-2020-10-23-at-14.58.41.png)
 
-His fonts stay the same in each piece, with every travel piece he has created staying the same, this creates a consistency that helps him become more recognisable and therefore more popular.
+Henry uses the two same fonts in every single travel poster and illustration that he creates. This consistency has helped his success by making him a recognisable artist that is sought out and remembered for his niche travel art. 
 
-The fonts stay the same in every piece or work. 
+These fonts make an ideal middle ground for all genders wanting to purchase his artwork, with one the 'Braisetto Thin in italic' being feminine and the Urwen Sans in Bold being masculine. This has logically doubled his market demographic as the posters are unisex, neither particularly manly nor feminine. 
 
-He also found the perfect middle ground between feminine and masculine which creates an equal balance, this logically has made his demographic double- The 'Braisetto Thin by Adam Ladd in italic' for the visit holds a feminine touch as it's smaller than the next and is also thin and curly. Whereas on the other hand the font urwen Sans in Bold is more masculine and solid.
+The Braisetto Thin is a smaller, more petite font, with thin and curly ends, whereas Urwen Sans in Bold is thick and straight edge- If he were to have just used the Braisetto font his market would've been geared more towards females and would therefore not be so popular.
 
-If he were to have just used the Braisetto font his market would've been geared more towards females and would therefore not be so popular.
+His choice of font might seem insignificant, but it plays a huge role in how successful his artwork has become. 
 
-His use of font is something that gives him an edge in the market, because of this, his work is easily recognisable and has since become popular, which has made him millions. He started getting noticed more and more off of Pinterest and with each poster comes a different aesthetic based on the country- i would describe them as both peaceful and nostalgic, the kind of artwork that can fit easily into any home.
+His choice of consistent font, style of illustration and colour scheme has made him become recognisable and therefore more of a success.  
+
+Each poster comes with the same aesthetic but with different illustrations for each country and place he is trying to capture- I would describe his work as both peaceful and nostalgic, the kind of artwork that can fit easily into any home.
