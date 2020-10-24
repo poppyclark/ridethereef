@@ -10,4 +10,4 @@ tags: null
 description: null
 show: false
 ---
-We are living in uncertain times, our reefs are dying and we need to do everything we can to keep them on our planet for as long as possible. This blog is going to all ocean related brands that are there to support our planet.
+We are living in uncertain times, our reefs are dying and we need to do everything we can to keep them on our planet for as long as possible. This blog is going to be used to talk and analyse all ocean related brands that are there to support our planet or just explore and show off our planet- typography is a huge part of branding and creating brand consistency and memorability.
