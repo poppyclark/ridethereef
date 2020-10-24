@@ -4,7 +4,7 @@ title: About Ride The Reef
 subtitle: ""
 permalink: "/field "
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: ../uploads/logo.png
+header_feature_image: ../uploads/white-with-aqua-brush-stroke-personal-logo.png
 published: true
 tags: null
 description: null
