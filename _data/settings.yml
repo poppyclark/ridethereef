@@ -7,5 +7,5 @@ bannerheight: 20vmax
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
 gridlayout: true
-fixednavbar: false
+fixednavbar: true
 upzoom: true
