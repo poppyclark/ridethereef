@@ -4,7 +4,7 @@ title: About Ride The Reef
 subtitle: ""
 permalink: /about/ right
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: ../uploads/logo.jpg
+header_feature_image: ../uploads/felicia-d-ascanio-qvkqfultwdg-unsplash.jpg
 published: true
 tags: null
 description: null
