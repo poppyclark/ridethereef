@@ -22,12 +22,10 @@ We are living in uncertain times, our reefs are dying and we need to do everythi
 
 Within this website, the typographical and design choices I have made are all deliberate.
 
-
-
 **MY LOGO:**
 
 ![](../uploads/logo.jpg)
 
 **MY BANNER:**
 
-![](../uploads/breathe-facebook-cover.png)
+![](../uploads/surfing.jpg)
