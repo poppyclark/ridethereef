@@ -2,7 +2,7 @@
 layout: page
 title: About Ride The Reef
 subtitle: ""
-permalink: "/field "
+permalink: /about/ right
 date: 2020-06-29T15:36:12.231Z
 header_feature_image: ../uploads/logo.jpg
 published: true
