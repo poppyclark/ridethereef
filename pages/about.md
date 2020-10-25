@@ -22,7 +22,7 @@ We are living in uncertain times, our reefs are dying and we need to do everythi
 
 Within this website, the typographical and design choices I have made are all deliberate.
 
-![](../uploads/tim-mossholder-gomhucj-o9w-unsplash-1-.jpg)
+
 
 **MY LOGO:**
 
