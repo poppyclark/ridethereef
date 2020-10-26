@@ -58,6 +58,10 @@ The typography Rude Health use stays consistent through the entire brand, includ
 
 The typography they use is Mensrea Regular by Typograma. Its bold and large, with the 'health' being a few sizes smaller than the 'rude'- this is done to emphasis the word health and their connection to it.
 
-![Innocent- Almond, Hazelnut & Oat](../uploads/dg2h94nx4aayzzl.jpg)
+![Plenish](../uploads/img_1063.jpg)
 
-The innocent
+> "**OUR PURPOSE IS TO INSPIRE EVERY ONE OF US TO MAKE A POSITIVE CHANGE FOR A HEALTHIER WORLD"**
+>
+> **"**Plenish is an award-winning plant-powered drinks brand that’s on a mission to fuel a healthier world. Everything we do is driven by the belief that we’re at our best when we’re running on plenty, and that’s as true for the earth as it is for us. Our products are designed to maximise plant-fuelled nutrition and minimise our impact on the planet."
+
+![Innocent- Oat](../uploads/118932_plenish-nut-milks-web.jpg)
