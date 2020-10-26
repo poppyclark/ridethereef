@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Typography in Oat Milk Brands
+title: "Typography & Oat Milk "
 date: 2020-10-26T15:48:37.245Z
 header_feature_image: ../uploads/best-oat-milks-1552920775.jpg
 caption: Brand- Minor Figures
