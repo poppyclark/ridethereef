@@ -16,9 +16,11 @@ Each of these brands have a different ethos, colour scheme and typography set up
 
 Minor Figures have two oat milk options- organic and original. Both of these are in plain colours, the original white with aqua writing and the organic in charcoal with aqua writing also. All of the illustrations are also all in the same aqua blue colour.
 
-The font used stays consistent throughout the entire brand, including in their cold brew cans, filter coffee and apparel. 
+The typography stays consistent throughout the entire brand, including in their cold brew cans, filter coffee and apparel. 
 
 ![Minor Figures- organic & original](../uploads/screenshot-2020-10-26-at-18.33.48.png)
+
+The typography is in 'RW Linear ExtraWide Ultra Bold by URW Type Foundry
 
 ![Minor Figures- Entire Range](../uploads/0.jpeg)
 
@@ -28,10 +30,10 @@ Oatly is similar, with 5 different options with a colour range of blue, baby blu
 
 ![Oatly- Range](../uploads/screenshot-2020-10-26-at-18.39.08.png)
 
-The font used stays consistent throughout the entire brand, including in their yogurts, cold brews, ice creams and spreads.
+The typography used stays consistent throughout the entire brand, including in their yogurts, cold brews, ice creams and spreads.
 
 ![Oatly](../uploads/oatly_logo.png)
 
 The OATLY font is original but very similar to 'kokoschka print' by pintassilgo Prints. 
 
-The typography is bold with sharp edges, the A in 'oat' is a block triangle with a tree cut out of the middle.
+The typography is bold with sharp edges, the A in 'oat' is a block triangle with a tree cut out of the middle and the colour of the first half is blue and half second half black.
