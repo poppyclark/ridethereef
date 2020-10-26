@@ -31,3 +31,7 @@ Oatly is similar, with 5 different options with a colour range of blue, baby blu
 The font used stays consistent throughout the entire brand, including in their yogurts, cold brews, ice creams and spreads.
 
 ![Oatly](../uploads/oatly_logo.png)
+
+The OATLY font is original but very similar to 'kokoschka print' by pintassilgo Prints. 
+
+The typography is bold with sharp edges, the A in 'oat' is a block triangle with a tree cut out of the middle.
