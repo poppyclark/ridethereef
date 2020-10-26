@@ -6,3 +6,5 @@ header_feature_image: ../uploads/0.jpeg
 comments: true
 ---
 oat milk
+
+![](../uploads/minor-figures-1.gif)
