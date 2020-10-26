@@ -42,6 +42,6 @@ The typography is bold with sharp edges, the A in 'oat' is a block triangle with
 
 ![](../uploads/s3-news-tmp-56002-oatly-2x1-783.jpg)
 
-Rude Health have simple graphics but with brighter colours- they have purple, pink, blue, green, brown and white.
+Rude Health have simple graphics and typography but with a brighter colour range- they have purple, pink, blue, green, brown and white- each type in a different colour. 
 
 ![](../uploads/0-1-.jpeg)
