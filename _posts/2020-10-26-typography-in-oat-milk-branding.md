@@ -58,4 +58,6 @@ The typography Rude Health use stays consistent through the entire brand, includ
 
 The typography they use is Mensrea Regular by Typograma. Its bold and large, with the 'health' being a few sizes smaller than the 'rude'- this is done to emphasis the word health and their connection to it.
 
-![](../uploads/dg2h94nx4aayzzl.jpg)
+![Innocent- Almond, Hazelnut & Oat](../uploads/dg2h94nx4aayzzl.jpg)
+
+The innocent
