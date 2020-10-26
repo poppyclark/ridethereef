@@ -64,4 +64,12 @@ The typography they use is Mensrea Regular by Typograma. Its bold and large, wit
 >
 > **"**Plenish is an award-winning plant-powered drinks brand that’s on a mission to fuel a healthier world. Everything we do is driven by the belief that we’re at our best when we’re running on plenty, and that’s as true for the earth as it is for us. Our products are designed to maximise plant-fuelled nutrition and minimise our impact on the planet."
 
-![Innocent- Oat](../uploads/118932_plenish-nut-milks-web.jpg)
+Plenish have one oat milk option and 6 other milk alternative options. Each carton is white with coloured typography depending on the flavour and type of milk. These colours range from- yellow, green, red, purple to blue. 
+
+
+
+
+
+Each of these are in different colours, the original white with aqua writing and the organic in charcoal with aqua writing also. All of the illustrations are also all in the same aqua blue colour.
+
+The typography stays consistent throughout the entire brand, including in their cold brew cans, filter coffee and apparel.
