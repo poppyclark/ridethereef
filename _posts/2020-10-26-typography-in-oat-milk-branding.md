@@ -3,7 +3,7 @@ layout: post
 title: "Typography in Oat Milk Branding "
 date: 2020-10-26T15:48:37.245Z
 header_feature_image: ../uploads/0.jpeg
-caption: Brand- minor figures
+caption: Brand- Minor Figures
 comments: true
 ---
 The Oat Milk industry is growing every year, and the most popular brands include- Oatly, Rude Heath, Minor Figures and Innocent. 
