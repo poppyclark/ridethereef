@@ -16,8 +16,12 @@ Each of these brands have a different ethos, colour scheme and typography set up
 
 Minor Figures have two oat milk options- organic and original. Both of these are in plain colours, the original white with aqua writing and the organic in charcoal with aqua writing also. All of the illustrations are also all in the same aqua blue colour.
 
-![minor figures- organic & original](../uploads/screenshot-2020-10-26-at-18.33.48.png)
+The font used stays consistent throughout the entire brand, including in their cold brew cans, filter coffee and apparel. 
+
+![Minor Figures- organic & original](../uploads/screenshot-2020-10-26-at-18.33.48.png)
 
 Oatly is similar, with 5 different options with a colour range of blue, baby blue, grey, white, light brown and dark brown. All typography is in a mixture of black, white and blue depending on the range.
 
 ![Oatly Range](../uploads/screenshot-2020-10-26-at-18.39.08.png)
+
+The font oatly uses stays consistent through the entire brand.
