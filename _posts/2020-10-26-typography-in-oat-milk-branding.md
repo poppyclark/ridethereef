@@ -39,3 +39,7 @@ The typography used stays consistent throughout the entire brand, including in t
 The typography OATLY uses is original but very similar to 'kokoschka print' by pintassilgo Prints. 
 
 The typography is bold with sharp edges, the A in 'oat' is a block triangle with a tree cut out of the middle and the colour of the first half is blue and half second half black.
+
+![](../uploads/s3-news-tmp-56002-oatly-2x1-783.jpg)
+
+Rude Health have simple graphics but with brighter colours- they have purple, pink, blue, green, brown and white.
