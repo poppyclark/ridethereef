@@ -53,3 +53,9 @@ The Oat is bright blue, dark yellow and dark brown.
 ![Rude Health- Barista Oat](../uploads/barista-oat-2.png)
 
 ![Rude Health- Oat](../uploads/5179_18564_z.jpg)
+
+The typography Rude Health use stays consistent through the entire brand, including in their milks, granolas, cereals, and snacks. 
+
+The typography they use is Mensrea Regular by Typograma. Its bold and large, with the 'health' being a few sizes smaller than the 'rude'- this is done to emphasis the word health and their connection to it.
+
+The M and N are slightly thinner, and the G has a slight swash at the bottom of it. The i in 'milk' has a '*' as a replacement as it is a vegan brand.
