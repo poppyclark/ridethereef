@@ -10,7 +10,7 @@ The Oat Milk industry is growing every year, and the most popular brands include
 
 Each of these brands have a different ethos, colour scheme and typography set up but all have one thing in common: they're trendy.
 
-![](../uploads/minor-figures-1.gif)
+![Brand- Minor Figures](../uploads/minor-figures-1.gif)
 
 > "We make plant-based, 100% vegan products to lift your coffee and your mind – be that in the comfort of your home or in your favourite local spot."- Minor Figures 
 
