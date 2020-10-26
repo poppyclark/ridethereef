@@ -20,6 +20,8 @@ The font used stays consistent throughout the entire brand, including in their c
 
 ![Minor Figures- organic & original](../uploads/screenshot-2020-10-26-at-18.33.48.png)
 
+> "Our sole purpose as a company is to make it easy for people to turn what they eat and drink into personal moments of healthy joy without recklessly taxing the planet’s resources in the process"
+
 Oatly is similar, with 5 different options with a colour range of blue, baby blue, grey, white, light brown and dark brown. All typography is in a mixture of black, white and blue depending on the range.
 
 ![Oatly Range](../uploads/screenshot-2020-10-26-at-18.39.08.png)
