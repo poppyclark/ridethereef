@@ -24,4 +24,4 @@ Oatly is similar, with 5 different options with a colour range of blue, baby blu
 
 ![Oatly Range](../uploads/screenshot-2020-10-26-at-18.39.08.png)
 
-The font oatly uses stays consistent through the entire brand.
+The font used stays consistent throughout the entire brand, including in their yogurts, cold brews, ice creams and spreads.
