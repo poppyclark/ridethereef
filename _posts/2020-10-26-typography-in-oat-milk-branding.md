@@ -58,4 +58,4 @@ The typography Rude Health use stays consistent through the entire brand, includ
 
 The typography they use is Mensrea Regular by Typograma. Its bold and large, with the 'health' being a few sizes smaller than the 'rude'- this is done to emphasis the word health and their connection to it.
 
-The M and N are slightly thinner, and the G has a slight swash at the bottom of it. The i in 'milk' has a '*' as a replacement as it is a vegan brand.
+![](../uploads/dg2h94nx4aayzzl.jpg)
