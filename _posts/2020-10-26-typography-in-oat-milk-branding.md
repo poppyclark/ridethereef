@@ -42,6 +42,8 @@ The typography is bold with sharp edges, the A in 'oat' is a block triangle with
 
 ![Oatly Advertisement](../uploads/s3-news-tmp-56002-oatly-2x1-783.jpg)
 
+> "WE’RE RUDE HEALTH- Brilliant ingredients. Nothing artificial. Nothing refined."
+
 Rude Health have simple graphics and typography but with a brighter colour range- they have purple, pink, blue, green, brown and white- each type of milk comes in a different colour. 
 
 ![Rude Health- Entire Range](../uploads/0-1-.jpeg)
