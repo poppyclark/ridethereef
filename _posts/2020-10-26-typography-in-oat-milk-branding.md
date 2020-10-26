@@ -20,7 +20,9 @@ The typography stays consistent throughout the entire brand, including in their 
 
 ![Minor Figures- organic & original](../uploads/screenshot-2020-10-26-at-18.33.48.png)
 
-The typography is in 'RW Linear ExtraWide Ultra Bold by URW Type Foundry
+The typography Minor Figures uses is original but very similar to- 'RW Linear ExtraWide Ultra Bold by URW Type Foundry.
+
+The M and N are slightly thinner, and the G has a slight swash at the bottom of it. The i in 'milk' has a '*' as a replacement as it is a vegan brand. 
 
 ![Minor Figures- Entire Range](../uploads/0.jpeg)
 
@@ -34,6 +36,6 @@ The typography used stays consistent throughout the entire brand, including in t
 
 ![Oatly](../uploads/oatly_logo.png)
 
-The OATLY font is original but very similar to 'kokoschka print' by pintassilgo Prints. 
+The typography OATLY uses is original but very similar to 'kokoschka print' by pintassilgo Prints. 
 
 The typography is bold with sharp edges, the A in 'oat' is a block triangle with a tree cut out of the middle and the colour of the first half is blue and half second half black.
