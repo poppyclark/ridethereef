@@ -9,3 +9,6 @@ favicon: /uploads/favicon.ico
 gridlayout: true
 fixednavbar: true
 upzoom: true
+items:
+  - name: About Me
+    siteurl: https://ridethereef.netlify.app/about/%20right
