@@ -28,7 +28,7 @@ Their logo is the word '**Greenpeace**' in an original font very similar to '**W
 
 As a core font for their websites they use '**Helvetica Neue**'.
 
-![Greenpeace Logo](../uploads/greenpeacelogo.png)
+![Greenpeace Logo](../uploads/greenpeace-logo.png)
 
 Another ethical non profit charity is '**Rainforest Alliance'.** 
 
