@@ -54,7 +54,9 @@ They 'lead campaigns, provide resources and information, and drive real solution
 
 ![Photograph by- Nikola Jovanovic](../uploads/nikola-jovanovic-obok3f8buky-unsplash.jpg)
 
-Friends of the earth have a very simple Logo. It is 'Friends of the Earth' in the font 'Arial Black' a sans serif designed for 'monotype' typography by Robin Nicholas. Next to those words is a 'hand drawn' messy circle with one side thicker than the other. 
+Friends of the earth have a very simple Logo. It is 'Friends of the Earth' in the font '**Arial Black**' a sans serif designed for 'monotype' typography by Robin Nicholas. Next to those words is a hand drawn messy circle with one side thicker than the other. 
+
+As a core font for their websites they use 'Texicali Regular' by FontMesa.
 
 ![Friends of the Earth Logo](../uploads/friendsoftheearth.png)
 
