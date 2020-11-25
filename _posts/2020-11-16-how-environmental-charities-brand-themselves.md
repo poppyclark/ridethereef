@@ -38,7 +38,7 @@ They present themselves to be mainly focussed on all forests and wildlife which 
 
 ![Photograph by- Isai Ramos](../uploads/isai-ramos-2woicgqv_u4-unsplash.jpg)
 
-The original logo are the words '**Rainforest Alliance**' in the font 'Futura Bold', in all capitals in a both dark blue and a darker green to reflect that it is eco-friendly. The logo also includes a little tree frog that sits up on the left hand side of the words in the same colour as the writing. 
+The original logo are the words '**Rainforest Alliance**' in the font '**Futura Bold**', in all capitals in a both dark blue and a darker green to reflect that it is eco-friendly. The logo also includes a little tree frog that sits up on the left hand side of the words in the same colour as the writing. 
 
 As a core font for their websites they use '**Touche**' by Indian Type Foundry.
 
@@ -53,3 +53,11 @@ They have since changed the colour of the logo and it is now in a beautiful sunn
 They 'lead campaigns, provide resources and information, and drive real solutions to the environmental problems facing us all.'
 
 ![Photograph by- Nikola Jovanovic](../uploads/nikola-jovanovic-obok3f8buky-unsplash.jpg)
+
+Friends of the earth have a very simple Logo. It is 'Friends of the Earth' in the font 'Arial Black' a sans serif designed for 'monotype' typography by Robin Nicholas. Next to those words is a 'hand drawn' messy circle with one side thicker than the other. 
+
+![Friends of the Earth Logo](../uploads/friendsoftheearth.png)
+
+The website is currently using an all white version in front of a navy background, however they occasionally change up the colour scheme and use the black font with the green circle. 
+
+![]()
