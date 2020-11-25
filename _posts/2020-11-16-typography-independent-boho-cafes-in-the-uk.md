@@ -30,10 +30,14 @@ Another small independent cafe is 'Jericho Coffee Traders'- Located in central O
 
 ![Photograph by- Dan Burton](../uploads/dan-burton-gz3wps9mxp8-unsplash.jpg)
 
-The font they use in their logo is original but very similar to 'Fun City Level 2 basic**'** by Abstrkt. It has wobbly edges around each letter, giving it the effect that it has been handwritten. It is made of a **bold** typeface in black with a white background.
+The font they use in their logo is original but very similar to '**Fun City Level 2 basic'** by Abstrkt. It has wobbly edges around each letter, giving it the effect that it has been handwritten. It is made of a **bold** typeface in black with a white background.
 
 The logo is a simple Bird in a large black circle, the edges of the bird on the inside of the circle also curve around making a 'double' circle with the words 'Jericho Coffee Traders' curving inside of the two. Jericho is in the top half of the circle and 'coffee traders' in the bottom half. 
 
-The entire circle and bird is made of the same effect that is on the typography, thick black lines with messy edges. 
+The circle and the bird are made to look the same as the typography, with thick black lines with messy edges. 
 
-![](../uploads/jericho_main_logo_62e543b4-7ded-45ae-bcdb-874439f3b3fb.png)
+![Jericho Coffee Traders Logo (Oxford)](../uploads/jericho_main_logo_62e543b4-7ded-45ae-bcdb-874439f3b3fb.png)
+
+Both of these independent cafes are in different parts of the UK but both have similar relaxed vibes.
+
+Although the logos aren't similar they both have the same 'messy' look that seems to be popular with small independent businesses.
