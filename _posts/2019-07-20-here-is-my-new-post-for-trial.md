@@ -6,7 +6,7 @@ header_feature_image: ../uploads/drew-dau-hvyeoqly3ms-unsplash.jpg
 caption: Rip Curl typography throughout the years- Drew Dua
 comments: true
 ---
-Rip Curl is one of the biggest and most important Surf Brands in the world, it was founded in 1969 and has since grown and evolved to meet the needs of the customers and their philosophy. 
+Rip Curl is one of the largest and most important Surf Brands in the world, it was founded in 1969 and has since grown and evolved to meet the needs of its customers and their philosophies. 
 
 ![Burleigh Heads QLD, Australia- Taken by Manny Moreno](../uploads/manny-moreno-getjzv1icdw-unsplash.jpg)
 
@@ -14,11 +14,11 @@ Rip curl are the number one market leaders for surfing wetsuits and have been fo
 
 In the past 60 years Rip Curl have changed and evolved in more ways than we can know but the most obvious change comes in the physical form of the branding, this being- logo, typography, colour and size of font. These are all things that are vital in marketing to attract and keep the right clients.
 
-When they first launched the company the logo was black and white chunky writing squished up into a circle which is one of the most iconic and well known designs, we still see this logo on air fresheners, t-shirts, sweatshirts and on their wetsuits in most surf shops. 
+When they first launched the company the logo was black and white with chunky writing that was 'squished up ' into a circle. This was, and still is, one of the most iconic and well known of their designs, which is why we still see this logo on the majority of Rip Curl products, which include their air fresheners, t-shirts, sweatshirts and on their wetsuits sold in most surf shops around the world.  
 
 ![The first ever rip curl logo/ typography](../uploads/rip-curl-logo-png-8.png)
 
-Back then, as they continued to grow they began to incorporate more rainbow colours to fit the era and the vibe of their customers. This stuck with through the late 1970's right into the 1980's. They still incorporate these rainbow colours into the brand today even though they have changed dramatically since to keep up with current trends and fashion trends.
+Back then, as they continued to grow they began to incorporate more colour- rainbow colours to be specific- to fit the era and the vibe of their customers. This stuck with through the late 1970's right into the 1980's. They still incorporate these rainbow colours into the brand today even though they have changed dramatically since to keep up with current trends and fashion trends.
 
 ![The second wave of branding for Rip Curl- The era of rainbows](../uploads/rip-curl-rainbow.jpg)
 
@@ -30,11 +30,11 @@ At the end of this era Rip Curl began to take off worldwide and they were making
 
 ![The birth of the iconic Rip Curl wave](../uploads/rip-curl-4.jpg)
 
-After the re brand Rip Curl switched things up every few years, different colours and effects were tried and experimented with, the first one being - water Camouflage.
+After the re brand Rip Curl switched things up every few years, different colours and effects were tried and experimented with, the first one being - water Camouflage but still using the iconic wave.
 
 ![Water camouflage version of the 1990's logo](../uploads/rip-curl-logo-5.png)
 
-The next update removed the Camouflage design and brought in the most memorable design which was marketed and aimed more towards surfboards, wetsuits, posters and other merchandise. One adaptation changed the colours from black to red in 2014. They later on did something they had never done before- they wrote all of the typography in lower case characters which was then replaced by the blade logo in 2015.
+The next update removed the Camouflage design and brought in the most modern and memorable design which was marketed and aimed more towards surfboards, wetsuits, posters and other merchandise. One adaptation changed the colours from black to red in 2014. They later on did something they had never done before- they wrote all of the typography in lower case characters which was then replaced by the blade logo in 2015.
 
 ![The first lowercase 'Blade' logo- 2005](../uploads/rip-curl-last-one.png)
 
