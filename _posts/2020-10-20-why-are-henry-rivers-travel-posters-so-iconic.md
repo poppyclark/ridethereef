@@ -22,15 +22,15 @@ The fonts he uses are- **'Braisetto Thin in italic'** by Adam Laddin and **'Curw
 
 The 'braisetto' font is used for the 'visit' and the curwen sans is used for the name of the place that he is illustrating.
 
-![Fonts 'Braisetto Thin' & 'Curwen Sans'](../uploads/screenshot-2020-10-23-at-14.55.03.png)
+![Fonts 'Braisetto Thin' & 'Curwen Sans'](../uploads/reloadhenry.jpg)
 
 Because Henry uses the two same fonts in every single travel poster and the same style of illustration he has managed to create an extremely distinct, this has helped his success because the consistency has made his work recognisable, he is now an artist that is sought out and remembered specifically for these niche travel posters.
 
-![Fonts 'Braisetto Thin' & 'Curwen Sans'](../uploads/screenshot-2020-10-23-at-14.55.45.png)
+![Fonts 'Braisetto Thin' & 'Curwen Sans'](../uploads/henreload.webp)
 
 These fonts hold the ideal middle ground of both femininity and masculinity. He has created a unisex market, meaning that he has opened up the market to all genders. The font **'Braisetto Thin in italic'** is the more feminine of the two. The **'Urwen Sans in Bold'** is more masculine as it is thick and bold. This has logically doubled his market demographic as the posters are unisex, neither particularly manly nor feminine. 
 
-![](../uploads/screenshot-2020-10-23-at-14.58.41.png)
+![](../uploads/london.jpg)
 
 The '**Braisetto Thin'** is a smaller, more petite font, with 'swashes', whereas '**Urwen Sans'** is thicker with straight edges. If he had only used the Braisetto font his market would've been geared more towards females which would not have sold as well, the contrast of the two fonts also plays a huge roll in the appearance of the posters and how professional and visually pleasing they are.
 
