@@ -26,4 +26,4 @@ They used the font '**Ugiftig**' by Bogstav with some paint brush strokes over t
 
 ![Special Addition Folk Cafe Logo- Bury St Edmunds (Suffolk)](../uploads/folk.jpg)
 
-Another small independent cafe is 'Jericho'
+Another small independent cafe is 'Jericho Coffee Traders'- Located in central Oxford. They are a 'warm, laid-back espresso bar serving coffee drinks alongside an array of baked goods & sweets.'
