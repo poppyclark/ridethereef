@@ -16,26 +16,30 @@ Typography is so much more than a way to make something look beautiful, it's a v
 
 ![Fonts- Braisetto Thin in italic & Curwen Sans in Bold by K-Type](../uploads/canada_by_henry_rivers.jpg)
 
-The typography that Henry Rivers uses two different fonts consistently for the name of each place and the word 'visit' in each print.
+The typography that Henry Rivers uses two different fonts consistently for the 'name' of each place and the word 'visit', which is on every one of his travel prints.
 
-The fonts he uses are- Braisetto Thin by Adam Ladd in italic for the 'visit' and Curwen Sans in Bold by K-Type for the name of the place that he is illustrating.
+The fonts he uses are- **'Braisetto Thin in italic'** by Adam Laddin and **'Curwen Sans in Bold'.** 
 
-![](../uploads/screenshot-2020-10-23-at-14.55.03.png)
+The 'braisetto' font is used for the 'visit' and the curwen sans is used for the name of the place that he is illustrating.
 
-Henry uses the two same fonts in every single travel poster and illustration that he creates. This consistency has helped his success by making him a recognisable artist that is sought out and remembered for his niche travel art. 
+![Fonts 'Braisetto Thin' & 'Curwen Sans'](../uploads/screenshot-2020-10-23-at-14.55.03.png)
 
-![](../uploads/screenshot-2020-10-23-at-14.55.45.png)
+Because Henry uses the two same fonts in every single travel poster and the same style of illustration he has managed to create an extremely distinct, this has helped his success because the consistency has made his work recognisable, he is now an artist that is sought out and remembered specifically for these niche travel posters.
 
-These fonts make an ideal middle ground for all genders wanting to purchase his artwork, with one the 'Braisetto Thin in italic' being feminine and the Urwen Sans in Bold being masculine. This has logically doubled his market demographic as the posters are unisex, neither particularly manly nor feminine. 
+![Fonts 'Braisetto Thin' & 'Curwen Sans'](../uploads/screenshot-2020-10-23-at-14.55.45.png)
+
+These fonts hold the ideal middle ground of both femininity and masculinity. He has created a unisex market, meaning that he has opened up the market to all genders. The font **'Braisetto Thin in italic'** is the more feminine of the two. The **'Urwen Sans in Bold'** is more masculine as it is thick and bold. This has logically doubled his market demographic as the posters are unisex, neither particularly manly nor feminine. 
 
 ![](../uploads/screenshot-2020-10-23-at-14.58.41.png)
 
-The Braisetto Thin is a smaller, more petite font, with thin and curly ends, whereas Urwen Sans in Bold is thick and straight edge- If he were to have just used the Braisetto font his market would've been geared more towards females and would therefore not be so popular.
+The '**Braisetto Thin'** is a smaller, more petite font, with 'swashes', whereas '**Urwen Sans'** is thicker with straight edges. If he had only used the Braisetto font his market would've been geared more towards females which would not have sold as well, the contrast of the two fonts also plays a huge roll in the appearance of the posters and how professional and visually pleasing they are.
 
-![]()
+![Henry Rivers](../uploads/henryrivershimself.jpg)
 
 His choice of font might seem insignificant, but it plays a huge role in how successful his artwork has become. 
 
 His choice of consistent font, style of illustration and colour scheme has made him become recognisable and therefore more of a success.  
 
-Each poster comes with the same aesthetic but with different illustrations for each country and place he is trying to capture- I would describe his work as both peaceful and nostalgic, the kind of artwork that can fit easily into any home.
+Each poster comes with the same aesthetic but with different illustrations for each country and place that he is trying to capture.
+
+I would describe his work as both peaceful and nostalgic, the kind of artwork that can fit easily into any home.
