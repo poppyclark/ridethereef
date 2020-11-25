@@ -3,7 +3,7 @@ layout: post
 title: How do ethical environmental charities brand themselves?
 date: 2020-11-16T00:25:56.321Z
 header_feature_image: ../uploads/ahmed-bibi-oirvesprbtm-unsplash.jpg
-caption: Photo by Ahmed Bibi
+caption: Photograph by Ahmed Bibi
 comments: true
 ---
 In 2020 the climate crisis is at the forefront of our minds, we were given a clear reminder just a few months ago that 'The Earth has a deadline' and we have less than 7 years before what we have done to our planet becomes irreversible. 
@@ -36,4 +36,20 @@ They are working on "**building an alliance to protect forests, improve the live
 
 They present themselves to be mainly focussed on all forests and wildlife which we can see reflected in their logos- 
 
+![Photograph by- Isai Ramos](../uploads/isai-ramos-2woicgqv_u4-unsplash.jpg)
+
+The original logo are the words '**Rainforest Alliance**' in the font 'Futura Bold', in all capitals in a both dark blue and a darker green to reflect that it is eco-friendly. The logo also includes a little tree frog that sits up on the left hand side of the words in the same colour as the writing. 
+
+As a core font for their websites they use '**Touche**' by Indian Type Foundry.
+
 ![Rainforest Alliance Logos](../uploads/rainforest-alliance-logo_and_seal.png)
+
+They have since changed the colour of the logo and it is now in a beautiful sunny yellow colour. 
+
+![Updated Rainforest Alliance Logo](../uploads/yellow.png)
+
+**Friends Of The Earth are '**part of an international community dedicated to protecting the natural world and the wellbeing of everyone in it.'
+
+They 'lead campaigns, provide resources and information, and drive real solutions to the environmental problems facing us all.'
+
+![Photograph by- Nikola Jovanovic](../uploads/nikola-jovanovic-obok3f8buky-unsplash.jpg)
