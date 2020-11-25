@@ -62,4 +62,10 @@ As a core font for their websites they use 'Texicali Regular' by FontMesa.
 
 The website is currently using an all white version in front of a navy background, however they occasionally change up the colour scheme and use the black font with the green circle. 
 
-![]()
+![Photograph by: Markus Spisker](../uploads/markus-spiske-5sh24a7m0bu-unsplash.jpg)
+
+All of these charities have many things in common. 
+
+All of them use the same colour schemes of green logos and green typography, they all use a bold typeface with 'Greenpeace' a little bit thicker than the others. 
+
+The green in each of these brands are supposed to be representative of the environment and to "**reflect its eco-friendly philosophy and spirit of peace, health and balance**."
