@@ -24,7 +24,7 @@ A lot of people support them not only because of their independence but also bec
 
 As a brand they present themselves with logos, typography and colour schemes. 
 
-Their logo is the word '**Greenpeace**' in an original font very similar to '**Wimp Out**'. It is in all capitals in casual bright green lettering to reflect "its eco-friendly philosophy and spirit of peace, health and balance".
+Their logo is the word '**Greenpeace**' in an original font very similar to '**Wimp Out**'. It is in all capitals in casual bright green lettering.
 
 As a core font for their websites they use '**Helvetica Neue**'.
 
