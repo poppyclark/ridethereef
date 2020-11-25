@@ -40,9 +40,13 @@ Their ethos is:
 
 Another popular brand is -**Green People**. 
 
-Their packaging is very minimal- white with black typography and an orange logo- very similar to Sun Bum but with more of a minimal appearance, the orange logo seems like it is meant to represent the sunshine, which is very similar to sun bum. 
+Their packaging is very minimal- white packaging with black typography and an orange logo- very similar to Sun Bum but with more of a minimal appearance, the orange logo seems to represent the sunshine, which is also very similar to sun bums colour scheme. 
 
-They use the fonts 'Helvetica Now Text' for the 'Green People' text- with the 'green' in extra bold and the 'people' in medium. The font 'Garamond Pro Bold- in Italic' is used for the 'Organic Lifestyle' in the logo. All of this is in Black. The Logo consists of the letters 'GP' in an orange square.
+They use the fonts **'Helvetica Now Text'** for the **'Green People'** text, with the word **'green'** in extra bold and the word **'people'** in medium. 
+
+The font **'Garamond Pro Bold- in Italic'** is used for the words **'Organic Lifestyle'** in the logo. All of this is in Black. 
+
+The Logo consists of the letters **'GP'** in an orange square.
 
 Green People is less of a 'surf brand' and more of a brand specifically made and branded as clean, natural skin care, made by people who want to put your skin and the environment first. They use fully biodegradable sugar cane packaging which is reflected in the price point. They are not linked to surfers in particular but are recommended by them as advocates for the ocean and the reef. 
 
@@ -54,12 +58,14 @@ Another popular UK suns cream brand is **topic skin care**. They brand themselve
 
 A brand that puts animals and the environment first- Supported by The Vegan Society and PETA as a 100% cruelty-free brand, now and always.
 
-They use the font- 'Accent Graphic by G'-Type in 'medium' in all black. Their logo is the word 'TROPIC' in a soft black colour, wrapped into a half oval shape with a leaf hanging off of the top left corner. 
+They use the font- **'Accent Graphic by G'-Type in 'medium**' in all black. Their logo is the word 'TROPIC' in a soft black colour, wrapped into a half oval shape with a leaf hanging off of the top left corner. 
 
 More similar to Green People than Sun Bum but with the same ethos of leaving minimal damage to our coral.
 
 ![](../uploads/reef-suncream.webp)
 
-Something I have noticed when looking at these brands is that the colouring of the logos are all identical, with mainly white packaging, black fonts, and orange logos.
+Something I have noticed when looking at these brands is that the colouring of the logos are all identical, all orange/ yellow, which I feel represents the colour of the sun.
+
+They also all use white packaging (with exception to new brand lines which still stick to a neutral colour palette) and they all have black fonts.
 
 These suncreams all have much in common and in more than one way, not only do they all have similar typography and colour schemes , but their passion for the environment and the animals is what shines through and is what sells in this niche market.
