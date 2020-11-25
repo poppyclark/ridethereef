@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How environmental charities brand themselves
+title: How do ethical environmental charities brand themselves?
 date: 2020-11-16T00:25:56.321Z
 header_feature_image: ../uploads/ahmed-bibi-oirvesprbtm-unsplash.jpg
 caption: Photo by Ahmed Bibi
@@ -24,6 +24,16 @@ A lot of people support them not only because of their independence but also bec
 
 As a brand they present themselves with logos, typography and colour schemes. 
 
-Their logo is the word '**Greenpeace**' in an original font very similar to '**Wimp Out**'. It is in all capitals 
+Their logo is the word '**Greenpeace**' in an original font very similar to '**Wimp Out**'. It is in all capitals in casual bright green lettering to reflect "its eco-friendly philosophy and spirit of peace, health and balance".
 
 As a core font for their websites they use '**Helvetica Neue**'.
+
+![Greenpeace Logo](../uploads/greenpeacelogo.png)
+
+Another ethical non profit charity is '**Rainforest Alliance'.** 
+
+They are working on "**building an alliance to protect forests, improve the livelihoods of farmers and forest communities, promote their human rights, and help them mitigate and adapt to the climate crisis**".
+
+They present themselves to be mainly focussed on all forests and wildlife which we can see reflected in their logos- 
+
+![Rainforest Alliance Logos](../uploads/rainforest-alliance-logo_and_seal.png)
