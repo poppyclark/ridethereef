@@ -18,6 +18,12 @@ The font they use in their logo is '**DIN Next Paneuropean W1G Black'** by Linot
 
 ![Folk Cafe Logo- Bury St Edmunds (Suffolk)](../uploads/folk-typog.jpg)
 
-They also have used other fonts and logos as 'special additions' to brand themselves-
+They also have used other fonts and logos as 'special additions/ collaborations' to brand themselves-
+
+In their collaboration with 'Pomlette' an illustrator they made a new logo with new typography. 
+
+They used the font '**Ugiftig**' by Bogstav with some paint brush strokes over the black to make it look hand-drawn, making it possible to see the peach background underneath parts of the letters. They used the same font but thinner around the edge if the logo and the peach illustration which is on top of the letters 'FOLK'. 
 
 ![Special Addition Folk Cafe Logo- Bury St Edmunds (Suffolk)](../uploads/folk.jpg)
+
+Another small independent cafe is 'Jericho'
