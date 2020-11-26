@@ -10,13 +10,7 @@ tags: null
 description: null
 show: true
 ---
-**A LITTLE BIT ABOUT ME- AND WHY I MADE RIDE THE REEF:**
-
-My name is Poppy, I was born in Suffolk- England but have since relocated to Bermuda- a tiny island in the North Atlantic Ocean. I now live in-between Bermuda and Oxfordshire where I study media, journalism and book publishing at Oxford Brookes University;
-
-After I graduate I ideally want to work in the book publishing industry. My dream job would let me travel and publish books in all areas involving environmental issue as well as diverse children's books.
-
-**ABOUT MY BLOG:**
+**WHY I MADE RIDE THE REEF**
 
 I made **ride the reef** for my **typography design for page and screen** module that i am currently studying for in my second year at Oxford Brookes university. It is a space to talk and explore typographic design that are in all aspects of life but focussing mainly on products and ideals that have a positive impact on our environment and our reefs.
 
